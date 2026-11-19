@@ -19,4 +19,6 @@ Každý text v `texty/` má stabilné identifikátory oddielov spoločné pre v�
 
 Výstupy znova vytvorí `python build.py` s nainštalovaným balíkom `reportlab`. Prepínač `--web-only` obnoví web aj offline čítačku zo zdrojových textov a použije existujúce PDF a EPUB. Predvolený font exportovaných PDF je Georgia zo systému Windows. Prepínač `--font-dir` umožňuje zvoliť iný priečinok s rovnakými súbormi fontu.
 
+EPUB export používa EPUB 2.0.1, XHTML 1.1, balík `content.opf` v koreni archívu a natívny obsah `toc.ncx`. Táto štruktúra zodpovedá typu referenčnej knihy, ktorú používateľ úspešne importoval do Moon+ Reader. Všetkých deväť exportov prešlo EPUBCheck bez chýb a upozornení. Pri zmene exportu boli porovnané texty aj všetky odkazy. Úspešný import novej verzie priamo v Moon+ Reader ešte čaká na potvrdenie používateľa.
+
 Pre GitHub Pages použite vetvu `main` a priečinok `/docs` ako zdroj publikovania. Tento priečinok obsahuje hotový statický web a exporty, takže na GitHube netreba spúšťať Python. Referenčné vydania a zdrojová rešerš sú uložené v lokálnom archíve projektu.

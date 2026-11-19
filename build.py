@@ -4,6 +4,7 @@ from itertools import groupby
 from json import dumps, loads
 from pathlib import Path
 import re
+from uuid import NAMESPACE_URL, uuid5
 from zipfile import ZIP_DEFLATED, ZIP_STORED, ZipFile
 
 from reportlab.lib.colors import HexColor
@@ -136,7 +137,7 @@ def section_html(section, lang, prose):
     anchor = section["id"]
     title = escape(section["title"][lang])
     body = text_html(section["text"][lang], prose)
-    return f'<section id="{anchor}"><h2>{title}</h2>{body}</section>'
+    return f'<div id="{anchor}"><h2>{title}</h2>{body}</div>'
 
 
 def web_work(work, lang, *, portable_titles=None):
@@ -270,7 +271,7 @@ def epub_work(work, lang, sections, path):
     title = escape(work["title"][lang])
     edition = escape(work["edition"][lang])
     author = escape(work["author"][lang])
-    identifier = f"urn:aquinas-library:{work['id']}:{lang}"
+    identifier = str(uuid5(NAMESPACE_URL, f"https://mstaskovan.github.io/StThomasAquinas/{work['id']}/{lang}/epub2"))
     documents = []
     entries = []
     ncx_points = []
@@ -310,43 +311,45 @@ def epub_work(work, lang, sections, path):
     manifest = "\n".join(f'<item id="text-{i}" href="{name}" media-type="application/xhtml+xml"/>'
                          for i, (name, _) in enumerate(documents, 1))
     spine = "\n".join(f'<itemref idref="text-{i}"/>' for i in range(1, len(documents) + 1))
-    ns = 'xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"'
-    prefix = f'<html {ns} lang="{lang}" xml:lang="{lang}">'
+    prefix = ('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" '
+              '"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">\n'
+              f'<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="{lang}">')
     with ZipFile(path, "w", compression=ZIP_DEFLATED) as book:
         book.writestr("mimetype", "application/epub+zip", compress_type=ZIP_STORED)
         book.writestr("META-INF/container.xml", """<?xml version="1.0" encoding="UTF-8"?>
 <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
-  <rootfiles><rootfile full-path="EPUB/book.opf" media-type="application/oebps-package+xml"/></rootfiles>
+  <rootfiles><rootfile full-path="content.opf" media-type="application/oebps-package+xml"/></rootfiles>
 </container>""")
-        book.writestr("EPUB/book.opf", f"""<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="publication">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:identifier id="publication">{identifier}</dc:identifier>
-    <dc:title>{title}</dc:title><dc:language>{lang}</dc:language><dc:creator>{author}</dc:creator>
+        book.writestr("content.opf", f"""<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="publication">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="publication" opf:scheme="UUID">{identifier}</dc:identifier>
+    <dc:title>{title}</dc:title><dc:language>{lang}</dc:language><dc:creator opf:role="aut">{author}</dc:creator>
     <dc:source>{escape(work["source"])}</dc:source>
-    <meta property="dcterms:modified">{TIMESTAMP}</meta>
+    <dc:date>{TIMESTAMP[:10]}</dc:date>
   </metadata>
   <manifest>
-    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     {manifest}
   </manifest>
   <spine toc="ncx"><itemref idref="nav"/>{spine}</spine>
+  <guide><reference type="toc" title="{CONTENTS[lang]}" href="nav.xhtml#toc"/></guide>
 </package>""")
-        book.writestr("EPUB/toc.ncx", f"""<?xml version="1.0" encoding="UTF-8"?>
+        book.writestr("toc.ncx", f"""<?xml version="1.0" encoding="UTF-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="{lang}">
   <head><meta name="dtb:uid" content="{identifier}"/><meta name="dtb:depth" content="{2 if has_nested_contents else 1}"/>
     <meta name="dtb:totalPageCount" content="0"/><meta name="dtb:maxPageNumber" content="0"/></head>
   <docTitle><text>{title}</text></docTitle>
   <navMap>{"".join(ncx_points)}</navMap>
 </ncx>""")
-        book.writestr("EPUB/nav.xhtml", f"""<?xml version="1.0" encoding="UTF-8"?>
+        book.writestr("nav.xhtml", f"""<?xml version="1.0" encoding="UTF-8"?>
 {prefix}<head><title>{CONTENTS[lang]}</title></head>
-<body><nav epub:type="toc" id="toc"><h1>{CONTENTS[lang]}</h1><ol>{"".join(entries)}</ol></nav></body></html>""")
+<body><div id="toc"><h1>{CONTENTS[lang]}</h1><ol>{"".join(entries)}</ol></div></body></html>""")
         for index, (filename, chunk) in enumerate(documents):
             body = "\n".join(section_html(s, lang, work.get("layout") == "prose") for s in chunk)
             heading = f"<h1>{title}</h1><p>{edition}</p>" if index == 0 else ""
-            book.writestr(f"EPUB/{filename}", f"""<?xml version="1.0" encoding="UTF-8"?>
+            book.writestr(filename, f"""<?xml version="1.0" encoding="UTF-8"?>
 {prefix}<head><title>{title}</title></head><body>
 {heading}{body}
 <p><a href="nav.xhtml#toc">{CONTENTS[lang]}</a></p>
