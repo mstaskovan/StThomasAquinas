@@ -13,7 +13,7 @@ Latinským východiskom traktátu *O večnosti sveta* je parmenské vydanie z ro
 
 ## Teologická suma I
 
-Latinská *Prima pars* obsahuje všetkých 119 otázok a 584 článkov. Web, EPUB a PDF používajú rovnaké členenie. Slovenský pracovný preklad z latinčiny obsahuje všeobecný predhovor a otázky 1–11 spolu s ich 54 článkami. Český pracovný preklad obsahuje všeobecnú predmluvu a I, ot. 2, čl. 3 o piatich cestách. Dostupné pasáže sa dajú porovnať s latinčinou a stiahnuť do EPUB alebo PDF. Úplný historický český preklad je v dvojjazyčnom PDF na Libri nostri. [Corpus Thomisticum](https://www.corpusthomisticum.org/iopera.html) · [Libri nostri](https://librinostri.catholica.cz/download/SvTomasThSumma1-textdve.pdf)
+Latinská *Prima pars* obsahuje všetkých 119 otázok a 584 článkov. Web, EPUB a PDF používajú rovnaké členenie. Slovenský pracovný preklad z latinčiny obsahuje všeobecný predhovor a otázky 1–13 spolu s ich 79 článkami. Český pracovný preklad obsahuje všeobecnú predmluvu a I, ot. 2, čl. 3 o piatich cestách. Dostupné pasáže sa dajú porovnať s latinčinou a stiahnuť do EPUB alebo PDF. Úplný historický český preklad je v dvojjazyčnom PDF na Libri nostri. [Corpus Thomisticum](https://www.corpusthomisticum.org/iopera.html) · [Libri nostri](https://librinostri.catholica.cz/download/SvTomasThSumma1-textdve.pdf)
 
 Každý text v `texty/` má stabilné identifikátory oddielov spoločné pre všetky jazyky. V Sume napríklad `q002-a03` označuje 3. článok 2. otázky. Import latinčiny overuje sled všetkých 5 173 zdrojových odsekov. Existujúce české a slovenské preklady zostávajú pri opakovanom importe priradené k tým istým článkom.
 

@@ -12,7 +12,7 @@
   },
   "edition": {
     "la": "Textus Leoninus, Romae 1888",
-    "sk": "Pracovný preklad z latinčiny · predhovor a otázky 1–11",
+    "sk": "Pracovný preklad z latinčiny · predhovor a otázky 1–13",
     "cs": "Pracovní překlad předmluvy a článku I, ot. 2, čl. 3"
   },
   "layout": "prose",
@@ -2137,22 +2137,28 @@
     {
       "id": "q012",
       "title": {
-        "la": "Quaestio 12 · Prooemium"
+        "la": "Quaestio 12 · Prooemium",
+        "sk": "Otázka 12 · Úvod"
       },
       "text": {
         "la": [
           "Quia in superioribus consideravimus qualiter Deus sit secundum seipsum, restat considerandum qualiter sit in cognitione nostra, idest quomodo cognoscatur a creaturis. Et circa hoc quaeruntur tredecim. Primo, utrum aliquis intellectus creatus possit videre essentiam Dei. Secundo, utrum Dei essentia videatur ab intellectu per aliquam speciem creatam. Tertio, utrum oculo corporeo Dei essentia possit videri. Quarto, utrum aliqua substantia intellectualis creata ex suis naturalibus sufficiens sit videre Dei essentiam. Quinto, utrum intellectus creatus ad videndam Dei essentiam indigeat aliquo lumine creato. Sexto, utrum videntium essentiam Dei unus alio perfectius videat. Septimo, utrum aliquis intellectus creatus possit comprehendere Dei essentiam. Octavo, utrum intellectus creatus videns Dei essentiam, omnia in ipsa cognoscat. Nono, utrum ea quae ibi cognoscit, per aliquas similitudines cognoscat. Decimo, utrum simul cognoscat omnia quae in Deo videt. Undecimo, utrum in statu huius vitae possit aliquis homo essentiam Dei videre. Duodecimo, utrum per rationem naturalem Deum in hac vita possimus cognoscere. Tertiodecimo, utrum, supra cognitionem naturalis rationis, sit in praesenti vita aliqua cognitio Dei per gratiam."
+        ],
+        "sk": [
+          "Keďže sme vyššie uvažovali o tom, aký je Boh sám v sebe, zostáva preskúmať, ako je prítomný v našom poznaní, čiže ako ho poznávajú stvorenia. K tomu sa kladie trinásť otázok. Po prvé, či môže niektorý stvorený rozum vidieť Božiu esenciu. Po druhé, či ju rozum vidí prostredníctvom nejakej stvorenej poznávacej podoby. Po tretie, či ju možno vidieť telesným okom. Po štvrté, či na videnie Božej esencie stačia prirodzené schopnosti nejakej stvorenej rozumovej substancie. Po piate, či stvorený rozum potrebuje na jej videnie nejaké stvorené svetlo. Po šieste, či ju jeden z tých, ktorí ju vidia, vidí dokonalejšie než iný. Po siedme, či môže niektorý stvorený rozum Božiu esenciu obsiahnuť. Po ôsme, či stvorený rozum, ktorý ju vidí, v nej poznáva všetko. Po deviate, či to, čo v nej poznáva, poznáva prostredníctvom nejakých podôb. Po desiate, či poznáva naraz všetko, čo v Bohu vidí. Po jedenáste, či môže niektorý človek vidieť Božiu esenciu v tomto živote. Po dvanáste, či môžeme v tomto živote poznať Boha prirodzeným rozumom. Po trináste, či v prítomnom živote možno milosťou dospieť k poznaniu Boha, ktoré prevyšuje poznanie prirodzeným rozumom."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a01",
       "title": {
-        "la": "Quaestio 12 · Articulus 1"
+        "la": "Quaestio 12 · Articulus 1",
+        "sk": "1. článok · Či môže stvorený rozum vidieť Božiu esenciu"
       },
       "text": {
         "la": [
@@ -2166,17 +2172,31 @@
           "Ad secundum dicendum quod infinitum quod se tenet ex parte materiae non perfectae per formam, ignotum est secundum se, quia omnis cognitio est per formam. Sed infinitum quod se tenet ex parte formae non limitatae per materiam, est secundum se maxime notum. Sic autem Deus est infinitus, et non primo modo, ut ex superioribus patet.",
           "Ad tertium dicendum quod Deus non sic dicitur non existens, quasi nullo modo sit existens, sed quia est supra omne existens, inquantum est suum esse. Unde ex hoc non sequitur quod nullo modo possit cognosci, sed quod omnem cognitionem excedat, quod est ipsum non comprehendi.",
           "Ad quartum dicendum quod proportio dicitur dupliciter. Uno modo, certa habitudo unius quantitatis ad alteram; secundum quod duplum, triplum et aequale sunt species proportionis. Alio modo, quaelibet habitudo unius ad alterum proportio dicitur. Et sic potest esse proportio creaturae ad Deum, inquantum se habet ad ipsum ut effectus ad causam, et ut potentia ad actum. Et secundum hoc, intellectus creatus proportionatus esse potest ad cognoscendum Deum."
+        ],
+        "sk": [
+          "Zdá sa, že nijaký stvorený rozum nemôže vidieť Boha v jeho esencii. Ján Zlatoústy totiž pri výklade Jánových slov „Boha nikto nikdy nevidel“ (Jn 1, 18) hovorí: „To, čím je sám Boh, nevideli proroci, ba ani anjeli a archanjeli. Ako by totiž bytosť, ktorá môže byť stvorená, mohla vidieť to, čo stvorené byť nemôže?“ Aj Dionýz hovorí o Bohu v prvej kapitole diela O Božích menách: „Nemožno ho zachytiť zmyslami ani obrazotvornosťou, utvoriť si o ňom mienku ani k nemu dospieť usudzovaním či vedením.“",
+          "Ďalej, všetko nekonečné je ako také nepoznané. Boh je však nekonečný, ako sa ukázalo vyššie. Sám osebe je teda nepoznateľný.",
+          "Ďalej, stvorený rozum poznáva len to, čo jestvuje, lebo rozum najprv chápe súcno. Boh však podľa Dionýza stojí nad tým, čo jestvuje. Boh teda nie je rozumovo poznateľný a stojí nad každým rozumom.",
+          "Ďalej, medzi poznávajúcim a poznávaným musí byť istá primeranosť, lebo poznávané je dokonalosťou poznávajúceho. Medzi stvoreným rozumom a Bohom však niet primeranosti, lebo ich delí nekonečná vzdialenosť. Stvorený rozum teda nemôže vidieť Božiu esenciu.",
+          "Proti tomu stoja slová Prvého Jánovho listu (3, 2): „Uvidíme ho takého, aký je.“",
+          "Odpovedám, že každá vec je poznateľná, nakoľko je v uskutočnení. Boh je čistý akt bez akejkoľvek prímesi možnosti, a preto je sám osebe poznateľný v najvyššej miere. Čo je však samo osebe najlepšie poznateľné, môže byť pre istý rozum nepoznateľné, ak to prevyšuje jeho schopnosť. Tak netopier nemôže vidieť slnko, ktoré je veľmi dobre viditeľné, lebo jeho svetlo je preň priveľmi silné. Niektorí preto tvrdili, že nijaký stvorený rozum nemôže vidieť Božiu esenciu. To však vedie k neprijateľnému dôsledku. Posledná blaženosť človeka spočíva v jeho najvyššej činnosti, ktorou je činnosť rozumu. Keby stvorený rozum nikdy nemohol vidieť Božiu esenciu, buď by nikdy nedosiahol blaženosť, alebo by jeho blaženosť spočívala v niečom inom než v Bohu. To odporuje viere. Práve v Bohu je posledná dokonalosť rozumného stvorenia, pretože Boh je princípom jeho bytia a každá vec je dokonalá natoľko, nakoľko dosahuje svoj princíp. Uvedené tvrdenie odporuje aj rozumu. Človek, keď pozoruje účinok, prirodzene túži poznať jeho príčinu. Odtiaľ v ľuďoch vzniká údiv. Keby teda rozum rozumného stvorenia nemohol dospieť k prvej príčine vecí, táto prirodzená túžba by zostala nenaplnená. Treba teda bez výhrady pripustiť, že blažení vidia Božiu esenciu.",
+          "K prvej námietke treba povedať, že obe citované autority hovoria o videní, ktoré by Boha plne obsiahlo. Dionýz preto tesne pred uvedenými slovami hovorí: „Pre všetkých bez výnimky je neobsiahnuteľný a nemožno ho zachytiť zmyslami“ a tak ďalej. Ján Zlatoústy krátko nato dodáva: „Videním sa tu myslí najistejšie nazeranie na Otca a jeho obsiahnutie, také úplné, aké má Otec vo vzťahu k Synovi.“",
+          "K druhej námietke treba povedať, že nekonečnosť na strane látky, ktorú nezdokonalila forma, je sama osebe nepoznateľná, lebo všetko poznanie sa deje prostredníctvom formy. Nekonečnosť na strane formy, ktorú neohraničuje látka, je však sama osebe poznateľná v najvyššej miere. Takto je nekonečný Boh, ako je zrejmé z predchádzajúceho.",
+          "K tretej námietke treba povedať, že keď sa o Bohu hovorí, že nie je jestvujúcim súcnom, znamená to, že je nad všetkým, čo jestvuje, pretože je svojím vlastným bytím. Vyplýva z toho, že presahuje každé poznanie, a preto ho nemožno obsiahnuť. Poznať ho však možno.",
+          "K štvrtej námietke treba povedať, že primeranosť má dva významy. V prvom zmysle je určitým pomerom jednej kvantity k druhej. Takými pomermi sú dvojnásobok, trojnásobok a rovnosť. V druhom zmysle označuje akýkoľvek vzťah jedného k druhému. V tomto zmysle môže byť stvorenie primerané Bohu, lebo sa k nemu má ako účinok k príčine a ako možnosť k uskutočneniu. V tomto ohľade môže byť stvorený rozum primeraný na poznanie Boha."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a02",
       "title": {
-        "la": "Quaestio 12 · Articulus 2"
+        "la": "Quaestio 12 · Articulus 2",
+        "sk": "2. článok · Či rozum vidí Božiu esenciu prostredníctvom stvorenej podoby"
       },
       "text": {
         "la": [
@@ -2188,17 +2208,29 @@
           "Ad primum ergo dicendum quod auctoritas illa loquitur de similitudine quae est per participationem luminis gloriae.",
           "Ad secundum dicendum quod Augustinus ibi loquitur de cognitione Dei quae habetur in via.",
           "Ad tertium dicendum quod divina essentia est ipsum esse. Unde, sicut aliae formae intelligibiles quae non sunt suum esse, uniuntur intellectui secundum aliquod esse quo informant ipsum intellectum et faciunt ipsum in actu; ita divina essentia unitur intellectui creato ut intellectum in actu, per seipsam faciens intellectum in actu."
+        ],
+        "sk": [
+          "Zdá sa, že stvorený rozum vidí Božiu esenciu prostredníctvom nejakej podoby. V Prvom Jánovom liste (3, 2) sa totiž hovorí: „Vieme, že keď sa zjaví, budeme mu podobní a uvidíme ho takého, aký je.“",
+          "Ďalej, Augustín v deviatej knihe O Trojici hovorí, že keď poznávame Boha, vzniká v nás istá Božia podoba.",
+          "Ďalej, rozum v uskutočnení je tým istým ako rozumovo poznateľné v uskutočnení, tak ako je zmysel v uskutočnení tým istým ako zmyslovo vnímateľné v uskutočnení. Deje sa to tým, že zmysel dostáva formu v podobe zmyslovo vnímateľnej veci a rozum v podobe chápanej veci. Ak teda stvorený rozum Boha skutočne vidí, musí ho vidieť prostredníctvom nejakej podoby.",
+          "Proti tomu stojí, čo hovorí Augustín v pätnástej knihe O Trojici. Keď apoštol hovorí, že „teraz vidíme v zrkadle a v hádanke“ (1 Kor 13, 12), zrkadlom a hádankou možno rozumieť všetky podoby, ktoré označuje a ktoré sú vhodné na chápanie Boha. Videnie Boha v jeho esencii je však odlišné od videnia v hádanke alebo v zrkadle. Božia esencia sa teda nevidí prostredníctvom podôb.",
+          "Odpovedám, že na videnie zmyslami aj rozumom sú potrebné dve veci, schopnosť vidieť a spojenie videnej veci so zrakom. Skutočné videnie totiž nastáva len vtedy, keď je videná vec istým spôsobom v tom, kto ju vidí. Pri telesných veciach je zrejmé, že videná vec nemôže byť v pozorovateľovi svojou esenciou, iba svojou podobou. V oku je napríklad podoba kameňa, prostredníctvom ktorej sa skutočne uskutočňuje videnie, kým samotná substancia kameňa v ňom nie je. Keby tá istá vec bola zdrojom schopnosti vidieť a zároveň videnou vecou, pozorovateľ by od nej musel dostať schopnosť vidieť aj formu, prostredníctvom ktorej by videl. Je zrejmé, že Boh dáva rozumu schopnosť chápať a že ho rozum môže vidieť. Keďže samotná rozumová schopnosť stvorenia nie je Božia esencia, môže byť iba istou podobou prvého rozumu, na ktorej stvorenie má účasť. Rozumová schopnosť stvorenia sa preto nazýva akýmsi svetlom pre rozum, odvodeným od prvého svetla. Platí to o prirodzenej schopnosti i o pridanej dokonalosti milosti alebo slávy. Na videnie Boha je teda potrebná istá Božia podoba na strane schopnosti vidieť, aby rozum Boha dokázal vidieť. Pokiaľ však ide o videnú vec, ktorá sa musí istým spôsobom spojiť s pozorovateľom, Božiu esenciu nemožno vidieť prostredníctvom nijakej stvorenej podoby. Po prvé, podľa Dionýza v prvej kapitole diela O Božích menách nemôžeme prostredníctvom podôb vecí nižšieho poriadku poznať veci vyššieho poriadku. Prostredníctvom podoby telesa napríklad nemožno poznať esenciu netelesnej veci. O to menej možno prostredníctvom akejkoľvek stvorenej podoby vidieť Božiu esenciu. Po druhé, Božia esencia je jeho vlastným bytím, ako sa ukázalo vyššie, a to neprislúcha nijakej stvorenej forme. Nijaká stvorená forma teda nemôže byť podobou, ktorá by pozorovateľovi sprítomňovala Božiu esenciu. Po tretie, Božia esencia je neohraničená a v sebe prevyšujúcim spôsobom obsahuje všetko, čo stvorený rozum môže chápať alebo označiť. To nijaká stvorená poznávacia podoba nemôže vyjadriť, lebo každá stvorená forma je vymedzená nejakým určením múdrosti, moci, samého bytia alebo niečoho podobného. Povedať teda, že Boha vidíme prostredníctvom podoby, by znamenalo tvrdiť, že Božiu esenciu nevidíme, čo je omyl. Na videnie Božej esencie je preto potrebná istá podoba na strane schopnosti vidieť, totiž svetlo slávy, ktoré posilňuje rozum, aby videl Boha. O ňom sa v žalme hovorí: „V tvojom svetle uvidíme svetlo“ (Ž 35, 10 podľa Vulgáty). Božiu esenciu samu však nemožno vidieť prostredníctvom nijakej stvorenej podoby, ktorá by ju sprítomňovala takú, aká je sama v sebe.",
+          "K prvej námietke treba povedať, že uvedené slová hovoria o podobnosti, ktorú máme účasťou na svetle slávy.",
+          "K druhej námietke treba povedať, že Augustín tam hovorí o poznaní Boha, ktoré máme počas pozemského putovania.",
+          "K tretej námietke treba povedať, že Božia esencia je samo bytie. Ostatné rozumovo poznateľné formy, ktoré nie sú svojím vlastným bytím, sa spájajú s rozumom podľa istého bytia, ktorým mu dávajú formu a uvádzajú ho do uskutočnenia. Božia esencia sa spája so stvoreným rozumom ako to, čo je skutočne chápané, a sama privádza rozum do uskutočnenia."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a03",
       "title": {
-        "la": "Quaestio 12 · Articulus 3"
+        "la": "Quaestio 12 · Articulus 3",
+        "sk": "3. článok · Či možno Božiu esenciu vidieť telesným okom"
       },
       "text": {
         "la": [
@@ -2210,17 +2242,29 @@
           "Ad primum ergo dicendum quod, cum dicitur in carne mea videbo Deum, salvatorem meum, non intelligitur quod oculo carnis sit Deum visurus, sed quod in carne existens, post resurrectionem, visurus sit Deum. Similiter quod dicitur, nunc oculus meus videt te, intelligitur de oculo mentis, sicut Ephes. I dicit apostolus, det vobis spiritum sapientiae in agnitione eius, illuminatos oculos cordis vestri.",
           "Ad secundum dicendum quod Augustinus loquitur inquirendo in verbis illis, et sub conditione. Quod patet ex hoc quod praemittitur, longe itaque potentiae alterius erunt (scilicet oculi glorificati), si per eos videbitur incorporea illa natura. Sed postmodum hoc determinat, dicens, valde credibile est sic nos visuros mundana tunc corpora caeli novi et terrae novae, ut Deum ubique praesentem, et universa etiam corporalia gubernantem, clarissima perspicuitate videamus; non sicut nunc invisibilia Dei per ea quae facta sunt intellecta conspiciuntur; sed sicut homines, inter quos viventes motusque vitales exerentes vivimus, mox ut aspicimus, non credimus vivere, sed videmus. Ex quo patet quod hoc modo intelligit oculos glorificatos Deum visuros, sicut nunc oculi nostri vident alicuius vitam. Vita autem non videtur oculo corporali, sicut per se visibile, sed sicut sensibile per accidens, quod quidem a sensu non cognoscitur, sed statim cum sensu ab aliqua alia virtute cognoscitiva. Quod autem statim, visis corporibus, divina praesentia ex eis cognoscatur per intellectum, ex duobus contingit, scilicet ex perspicacitate intellectus; et ex refulgentia divinae claritatis in corporibus innovatis.",
           "Ad tertium dicendum quod in visione imaginaria non videtur Dei essentia, sed aliqua forma in imaginatione formatur, repraesentans Deum secundum aliquem modum similitudinis, prout in Scripturis divinis divina per res sensibiles metaphorice describuntur."
+        ],
+        "sk": [
+          "Zdá sa, že Božiu esenciu možno vidieť telesným okom. V Knihe Jób (19. kap.) sa totiž hovorí: „Vo svojom tele uvidím Boha“ a tak ďalej. Na inom mieste (42, 5) stojí: „O tebe som počul sluchom ucha, teraz ťa však vidí moje oko.“",
+          "Ďalej, Augustín v poslednej knihe O Božom štáte, v dvadsiatej deviatej kapitole, hovorí: „Ich oči budú mať väčšiu moc,“ totiž oči oslávených, „aby videli aj netelesné veci. Ich moc nebude spočívať v tom, že by videli ostrejšie, než vraj vidia niektoré hady alebo orly. Nech totiž majú tieto živočíchy akokoľvek ostrý zrak, vidia iba telesá.“ Kto však môže vidieť netelesné veci, môže byť pozdvihnutý k videniu Boha. Oslávené oko teda môže vidieť Boha.",
+          "Ďalej, človek môže vidieť Boha v obraznom videní. U Izaiáša (6, 1) sa totiž hovorí: „Videl som Pána sedieť na tróne“ a tak ďalej. Obrazné videnie má však pôvod v zmysle, pretože obrazotvornosť je pohyb vyvolaný činným zmyslom, ako sa hovorí v tretej knihe O duši. Boha teda možno vidieť zmyslovým videním.",
+          "Proti tomu stojí, čo hovorí Augustín Pauline v diele O videní Boha: „Boha nikto nikdy nevidel v tomto živote takého, aký je, ani v živote anjelov tak, ako sa telesným zrakom vidia tieto viditeľné veci.“",
+          "Odpovedám, že Boha nemožno vidieť zrakom ani nijakým iným zmyslom či schopnosťou zmyslovej časti duše. Každá taká schopnosť je totiž uskutočnením telesného orgánu, ako sa povie ďalej. Uskutočnenie je primerané tomu, čo uskutočňuje. Nijaká takáto schopnosť teda nemôže siahať za telesné veci. Boh je však netelesný, ako sa ukázalo vyššie. Boha preto možno vidieť iba rozumom.",
+          "K prvej námietke treba povedať, že slovami „Vo svojom tele uvidím Boha, svojho Spasiteľa“ sa myslí, že Jób uvidí Boha po vzkriesení, keď bude v tele. Nemyslí sa tým videnie telesným okom. Podobne sa slová „Teraz ťa vidí moje oko“ majú chápať o oku mysle. Tak apoštol v Liste Efezanom (1, 17–18) prosí, aby vám Boh dal ducha múdrosti na poznanie seba a osvietil oči vášho srdca.",
+          "K druhej námietke treba povedať, že Augustín tu skúma možnosť a hovorí podmienečne. Vidno to z predchádzajúcich slov, že oslávené oči budú mať schopnosť celkom iného druhu, ak sa nimi bude vidieť ona netelesná prirodzenosť. Potom však vec určuje slovami: „Je veľmi hodnoverné, že vtedy uvidíme telesá nového neba a novej zeme tak, že s najjasnejšou zreteľnosťou uvidíme Boha všade prítomného a spravujúceho aj všetky telesné veci. Teraz sa Božie neviditeľné vlastnosti rozumom poznávajú zo stvorených vecí. Vtedy to bude podobné, ako keď pozrieme na ľudí, medzi ktorými žijeme a ktorí sa pred nami pohybujú. Hneď vidíme, že žijú, a nemusíme tomu iba veriť.“ Z toho je zrejmé, že podľa Augustína oslávené oči uvidia Boha tak, ako teraz naše oči vidia život iného človeka. Život totiž telesné oko nevidí ako to, čo je viditeľné samo osebe, ale ako to, čo je zmyslovo vnímateľné nepriamo. To nepoznáva sám zmysel, hneď pri zmyslovom vnímaní to však poznáva iná poznávacia schopnosť. To, že po zazretí telies z nich rozum ihneď pozná Božiu prítomnosť, bude mať dve príčiny, prenikavosť rozumu a žiaru Božej jasnosti v obnovených telesách.",
+          "K tretej námietke treba povedať, že v obraznom videní sa nevidí Božia esencia. V obrazotvornosti vzniká istá forma, ktorá sprítomňuje Boha na základe istej podobnosti. Tak sa aj vo Svätom písme Božie veci opisujú obrazne prostredníctvom zmyslovo vnímateľných vecí."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a04",
       "title": {
-        "la": "Quaestio 12 · Articulus 4"
+        "la": "Quaestio 12 · Articulus 4",
+        "sk": "4. článok · Či prirodzené schopnosti stvoreného rozumu stačia na videnie Božej esencie"
       },
       "text": {
         "la": [
@@ -2232,17 +2276,29 @@
           "Ad primum ergo dicendum quod iste modus cognoscendi Deum, est Angelo connaturalis, ut scilicet cognoscat eum per similitudinem eius in ipso Angelo refulgentem. Sed cognoscere Deum per aliquam similitudinem creatam, non est cognoscere essentiam Dei, ut supra ostensum est. Unde non sequitur quod Angelus per sua naturalia possit cognoscere essentiam Dei.",
           "Ad secundum dicendum quod intellectus Angeli non habet defectum, si defectus accipiatur privative, ut scilicet careat eo quod habere debet. Si vero accipiatur negative, sic quaelibet creatura invenitur deficiens, Deo comparata, dum non habet illam excellentiam quae invenitur in Deo.",
           "Ad tertium dicendum quod sensus visus, quia omnino materialis est, nullo modo elevari potest ad aliquid immateriale. Sed intellectus noster vel angelicus, quia secundum naturam a materia aliqualiter elevatus est, potest ultra suam naturam per gratiam ad aliquid altius elevari. Et huius signum est, quia visus nullo modo potest in abstractione cognoscere id quod in concretione cognoscit, nullo enim modo potest percipere naturam, nisi ut hanc. Sed intellectus noster potest in abstractione considerare quod in concretione cognoscit. Etsi enim cognoscat res habentes formam in materia, tamen resolvit compositum in utrumque, et considerat ipsam formam per se. Et similiter intellectus Angeli, licet connaturale sit ei cognoscere esse concretum in aliqua natura, tamen potest ipsum esse secernere per intellectum, dum cognoscit quod aliud est ipse, et aliud est suum esse. Et ideo, cum intellectus creatus per suam naturam natus sit apprehendere formam concretam et esse concretum in abstractione, per modum resolutionis cuiusdam, potest per gratiam elevari ut cognoscat substantiam separatam subsistentem, et esse separatum subsistens."
+        ],
+        "sk": [
+          "Zdá sa, že niektorý stvorený rozum môže prirodzenými schopnosťami vidieť Božiu esenciu. Dionýz totiž v štvrtej kapitole diela O Božích menách hovorí, že anjel je čistým a najjasnejším zrkadlom, ktoré prijíma celú Božiu krásu, ak to smieme povedať. Vec sa však vidí, keď vidíme jej zrkadlový obraz. Keďže teda anjel prirodzenými schopnosťami chápe seba samého, zdá sa, že nimi chápe aj Božiu esenciu.",
+          "Ďalej, čo je najlepšie viditeľné, je nám menej viditeľné pre obmedzenie nášho telesného alebo rozumového zraku. Anjelský rozum však netrpí nijakým nedostatkom. Keďže teda Boh je sám osebe rozumovo poznateľný v najvyššej miere, zdá sa, že pre anjela je rozumovo poznateľný v najvyššej miere. Ak teda anjel môže svojimi prirodzenými schopnosťami chápať ostatné rozumovo poznateľné veci, tým skôr môže chápať Boha.",
+          "Ďalej, telesný zmysel nemožno pozdvihnúť na chápanie netelesnej substancie, pretože to presahuje jeho prirodzenosť. Ak teda videnie Boha v jeho esencii presahuje prirodzenosť každého stvoreného rozumu, zdá sa, že nijaký stvorený rozum nemôže dospieť k videniu Božej esencie. Ako však vidno z predchádzajúceho, to je omyl. Zdá sa teda, že vidieť Božiu esenciu je stvorenému rozumu prirodzené.",
+          "Proti tomu stoja slová Listu Rimanom (6, 23): „Božou milosťou je večný život.“ Večný život však spočíva vo videní Božej esencie, podľa slov Evanjelia podľa Jána (17, 3): „Toto je večný život, aby poznali teba, jediného pravého Boha“ a tak ďalej. Stvorenému rozumu teda prináleží vidieť Božiu esenciu z milosti.",
+          "Odpovedám, že nijaký stvorený rozum nemôže vidieť Božiu esenciu svojimi prirodzenými schopnosťami. Poznanie totiž nastáva, keď je poznávané v poznávajúcom. V ňom je však poznávané podľa spôsobu poznávajúceho. Poznanie je teda u každého poznávajúceho primerané spôsobu jeho prirodzenosti. Ak spôsob bytia poznávanej veci prevyšuje spôsob prirodzenosti poznávajúceho, poznanie tej veci musí presahovať jeho prirodzenosť. Veci pritom majú rozličný spôsob bytia. Prirodzenosť niektorých má bytie iba v tejto konkrétnej látke. Také sú všetky telesné veci. Prirodzenosti iných jestvujú samostatne bez látky, a predsa nie sú svojím vlastným bytím, iba majú bytie. Také sú netelesné substancie, ktoré nazývame anjelmi. Len Boh má ten vlastný spôsob bytia, že je svojím samostatne jestvujúcim bytím. Nám je prirodzené poznávať to, čo má bytie iba v jednotlivej látke, lebo naša duša, ktorou poznávame, je formou istej látky. Má však dve poznávacie schopnosti. Prvá je uskutočnením telesného orgánu. Tej je prirodzené poznávať veci, pokiaľ sú v jednotlivej látke. Zmysel preto poznáva iba jednotliviny. Druhou poznávacou schopnosťou duše je rozum, ktorý nie je uskutočnením nijakého telesného orgánu. Rozumom nám je preto prirodzené poznávať prirodzenosti, ktoré majú bytie iba v jednotlivej látke, avšak skúmame ich odlúčené od nej, nakoľko od nej pri rozumovej úvahe odhliadame. Rozumom tak môžeme takéto veci poznávať všeobecne, čo prevyšuje schopnosť zmyslu. Anjelskému rozumu je prirodzené poznávať prirodzenosti, ktoré nejestvujú v látke. To presahuje prirodzenú schopnosť rozumu ľudskej duše v tomto živote, keď je spojená s telom. Zostáva teda, že poznať samo samostatne jestvujúce bytie je prirodzené iba Božiemu rozumu a presahuje prirodzenú schopnosť každého stvoreného rozumu. Nijaké stvorenie totiž nie je svojím vlastným bytím, má na ňom účasť. Stvorený rozum preto môže vidieť Boha v jeho esencii iba natoľko, nakoľko sa Boh svojou milosťou spája so stvoreným rozumom ako to, čo tento rozum chápe.",
+          "K prvej námietke treba povedať, že uvedený spôsob poznávania Boha je anjelovi prirodzený. Poznáva ho prostredníctvom jeho podoby, ktorá žiari v samom anjelovi. Poznať Boha prostredníctvom stvorenej podoby však neznamená poznať jeho esenciu, ako sa ukázalo vyššie. Z toho teda nevyplýva, že anjel môže Božiu esenciu poznať prirodzenými schopnosťami.",
+          "K druhej námietke treba povedať, že anjelský rozum netrpí nedostatkom toho, čo by mal podľa svojej prirodzenosti mať. Ak však nedostatok chápeme v zmysle prostej neprítomnosti, každé stvorenie je v porovnaní s Bohom obmedzené, pretože nemá dokonalosť, ktorá je v Bohu.",
+          "K tretej námietke treba povedať, že keďže je zrak celkom látkový, nemožno ho nijako pozdvihnúť k niečomu nelátkovému. Ľudský alebo anjelský rozum už svojou prirodzenosťou istým spôsobom stojí nad látkou, a preto ho možno milosťou pozdvihnúť k niečomu vyššiemu, čo presahuje jeho prirodzenosť. Vidno to z toho, že zrak nijakým spôsobom nemôže poznávať oddelene to, čo poznáva len ako spojené s látkou. Prirodzenosť môže vnímať iba ako túto konkrétnu. Náš rozum však môže uvažovať oddelene o tom, čo poznáva ako spojené s látkou. Hoci poznáva veci, ktorých forma je v látke, rozkladá zložené na obe zložky a skúma samotnú formu. Podobne je anjelskému rozumu prirodzené poznávať bytie spojené s istou prirodzenosťou. Napriek tomu môže rozumom odlíšiť samo bytie, keď poznáva, že on sám je jedno a jeho bytie druhé. Keďže je teda stvorený rozum od prirodzenosti schopný istým rozborom oddelene chápať formu a bytie spojené s niečím iným, môže byť milosťou pozdvihnutý k poznaniu oddelenej, samostatne jestvujúcej substancie a oddeleného, samostatne jestvujúceho bytia."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a05",
       "title": {
-        "la": "Quaestio 12 · Articulus 5"
+        "la": "Quaestio 12 · Articulus 5",
+        "sk": "5. článok · Či stvorený rozum potrebuje na videnie Božej esencie stvorené svetlo"
       },
       "text": {
         "la": [
@@ -2254,17 +2310,29 @@
           "Ad primum ergo dicendum quod lumen creatum est necessarium ad videndum Dei essentiam, non quod per hoc lumen Dei essentia intelligibilis fiat, quae secundum se intelligibilis est, sed ad hoc quod intellectus fiat potens ad intelligendum, per modum quo potentia fit potentior ad operandum per habitum, sicut etiam et lumen corporale necessarium est in visu exteriori, inquantum facit medium transparens in actu, ut possit moveri a colore.",
           "Ad secundum dicendum quod lumen istud non requiritur ad videndum Dei essentiam quasi similitudo in qua Deus videatur, sed quasi perfectio quaedam intellectus, confortans ipsum ad videndum Deum. Et ideo potest dici quod non est medium in quo Deus videatur, sed sub quo videtur. Et hoc non tollit immediatam visionem Dei.",
           "Ad tertium dicendum quod dispositio ad formam ignis non potest esse naturalis nisi habenti formam ignis. Unde lumen gloriae non potest esse naturale creaturae, nisi creatura esset naturae divinae, quod est impossibile. Per hoc enim lumen fit creatura rationalis deiformis, ut dictum est."
+        ],
+        "sk": [
+          "Zdá sa, že stvorený rozum na videnie Božej esencie nepotrebuje nijaké stvorené svetlo. Čo medzi zmyslovo vnímateľnými vecami svieti samo od seba, nepotrebuje iné svetlo, aby bolo viditeľné. Tak to musí byť aj pri rozumovo poznateľných veciach. Boh je však svetlom pre rozum. Nevidíme ho teda prostredníctvom nejakého stvoreného svetla.",
+          "Ďalej, keď Boha vidíme prostredníctvom niečoho, nevidíme ho v jeho vlastnej esencii. Ak ho však vidíme prostredníctvom stvoreného svetla, vidíme ho cez niečo sprostredkujúce. Nevidíme ho teda v jeho esencii.",
+          "Ďalej, nič nebráni tomu, aby niečo stvorené bolo niektorému stvoreniu prirodzené. Ak teda Božiu esenciu vidíme prostredníctvom nejakého stvoreného svetla, toto svetlo môže byť niektorému stvoreniu prirodzené. Také stvorenie by potom na videnie Boha nepotrebovalo nijaké ďalšie svetlo, čo je nemožné. Každé stvorenie teda nemusí na videnie Božej esencie potrebovať pridané svetlo.",
+          "Proti tomu stoja slová žalmu: „V tvojom svetle uvidíme svetlo“ (Ž 35, 10 podľa Vulgáty).",
+          "Odpovedám, že všetko, čo sa pozdvihuje k niečomu, čo presahuje jeho prirodzenosť, musí byť na to uspôsobené dispozíciou presahujúcou jeho prirodzenosť. Ak má napríklad vzduch prijať formu ohňa, musí byť na tú formu istým spôsobom pripravený. Keď stvorený rozum vidí Boha v jeho esencii, sama Božia esencia sa stáva formou, ktorou ho rozum chápe. Rozumu teda musí pribudnúť istá nadprirodzená dispozícia, aby bol tak vysoko pozdvihnutý. Keďže prirodzená schopnosť stvoreného rozumu na videnie Božej esencie nestačí, ako sa ukázalo, z Božej milosti sa musí zväčšiť jeho schopnosť chápať. Toto zväčšenie rozumovej schopnosti nazývame osvietením rozumu, tak ako samo rozumovo poznateľné nazývame svetlom. O tomto svetle sa hovorí v Zjavení (21, 23), že Božia sláva osvetľuje mesto, čiže spoločenstvo blažených, ktorí vidia Boha. Týmto svetlom sa pripodobňujú Bohu podľa slov Prvého Jánovho listu (3, 2): „Keď sa zjaví, budeme mu podobní a uvidíme ho takého, aký je.“",
+          "K prvej námietke treba povedať, že stvorené svetlo je potrebné na videnie Božej esencie, aby náš rozum bol schopný ju chápať. Sama Božia esencia je rozumovo poznateľná už sama osebe. Stvorené svetlo rozum posilňuje podobne, ako trvalá dispozícia posilňuje schopnosť konať. Aj telesné svetlo je potrebné na vonkajšie videnie, pretože uvádza priehľadné prostredie do uskutočnenia, takže naň môže pôsobiť farba.",
+          "K druhej námietke treba povedať, že toto svetlo je potrebné na videnie Božej esencie ako istá dokonalosť rozumu, ktorá ho posilňuje, aby videl Boha. Boh sa v ňom nevidí ako v podobe. Preto možno povedať, že svetlo je podmienkou, pri ktorej Boha vidíme. Videnie Boha tak zostáva bezprostredné.",
+          "K tretej námietke treba povedať, že dispozícia k forme ohňa nemôže byť prirodzená ničomu, čo túto formu nemá. Ani svetlo slávy teda nemôže byť stvoreniu prirodzené, iba ak by stvorenie bolo Božej prirodzenosti, čo je nemožné. Týmto svetlom sa však rozumné stvorenie pripodobňuje Bohu, ako sa povedalo."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a06",
       "title": {
-        "la": "Quaestio 12 · Articulus 6"
+        "la": "Quaestio 12 · Articulus 6",
+        "sk": "6. článok · Či jeden vidí Božiu esenciu dokonalejšie než iný"
       },
       "text": {
         "la": [
@@ -2276,17 +2344,29 @@
           "Ad primum ergo dicendum quod, cum dicitur videbimus eum sicuti est, hoc adverbium sicuti determinat modum visionis ex parte rei visae ut sit sensus, videbimus eum ita esse sicuti est, quia ipsum esse eius videbimus, quod est eius essentia. Non autem determinat modum visionis ex parte videntis, ut sit sensus, quod ita erit perfectus modus videndi, sicut est in Deo perfectus modus essendi.",
           "Et per hoc etiam patet solutio ad secundum. Cum enim dicitur quod rem unam unus alio melius non intelligit, hoc habet veritatem si referatur ad modum rei intellectae, quia quicumque intelligit rem esse aliter quam sit, non vere intelligit. Non autem si referatur ad modum intelligendi, quia intelligere unius est perfectius quam intelligere alterius.",
           "Ad tertium dicendum quod diversitas videndi non erit ex parte obiecti, quia idem obiectum omnibus praesentabitur, scilicet Dei essentia, nec ex diversa participatione obiecti per differentes similitudines, sed erit per diversam facultatem intellectus, non quidem naturalem, sed gloriosam, ut dictum est."
+        ],
+        "sk": [
+          "Zdá sa, že spomedzi tých, ktorí vidia Božiu esenciu, ju jeden nevidí dokonalejšie než iný. V Prvom Jánovom liste (3, 2) sa totiž hovorí: „Uvidíme ho takého, aký je.“ Boh však jestvuje jedným spôsobom. Všetci ho teda budú vidieť jedným spôsobom, takže ho nik neuvidí dokonalejšie ani menej dokonale.",
+          "Ďalej, Augustín v diele O osemdesiatich troch otázkach hovorí, že tú istú vec jeden nemôže chápať viac než iný. Všetci, ktorí vidia Boha v jeho esencii, však chápu Božiu esenciu, lebo Boha vidíme rozumom, ako bolo povedané vyššie. Spomedzi tých, ktorí vidia Božiu esenciu, ju teda jeden nevidí jasnejšie než iný.",
+          "Ďalej, že niečo vidíme dokonalejšie než niečo iné, môže vyplývať z dvoch vecí, buď z viditeľného predmetu, alebo zo schopnosti pozorovateľa vidieť. Na strane predmetu sa to deje tým, že sa predmet prijíma v pozorovateľovi dokonalejšie, čiže podľa dokonalejšej podoby. To však v tomto prípade neplatí, lebo rozumu, ktorý vidí Božiu esenciu, je Boh prítomný svojou esenciou bez sprostredkovania podoby. Ak ho teda jeden vidí dokonalejšie než iný, zostáva to vysvetliť rozdielom v rozumovej schopnosti. Z toho by vyplývalo, že kto má od prirodzenosti vyššiu rozumovú schopnosť, vidí ho jasnejšie. To je neprijateľné, keďže ľuďom sa v blaženosti prisľubuje rovnosť s anjelmi.",
+          "Proti tomu stojí, že večný život spočíva vo videní Boha, podľa slov Evanjelia podľa Jána (17, 3): „Toto je večný život“ a tak ďalej. Ak teda všetci vidia Božiu esenciu rovnako, všetci budú rovní vo večnom živote. Apoštol však hovorí opak v Prvom liste Korinťanom (15, 41): „Hviezda sa od hviezdy líši jasom.“",
+          "Odpovedám, že spomedzi tých, ktorí vidia Boha v jeho esencii, ho jeden uvidí dokonalejšie než iný. Nedôjde k tomu preto, že by v jednom bola dokonalejšia Božia podoba než v inom, keďže toto videnie sa nebude diať prostredníctvom podoby, ako sa ukázalo. Dôjde k tomu preto, že jeden rozum bude mať väčšiu schopnosť vidieť Boha než iný. Schopnosť vidieť Boha však stvorenému rozumu neprináleží podľa jeho prirodzenosti. Prijíma ju zo svetla slávy, ktoré ho istým spôsobom pripodobňuje Bohu, ako je zrejmé z predchádzajúceho. Rozum, ktorý bude mať väčšiu účasť na svetle slávy, teda uvidí Boha dokonalejšie. Väčšiu účasť na svetle slávy bude mať ten, kto má väčšiu lásku. Kde je totiž väčšia láska, tam je väčšia túžba, a túžba istým spôsobom uspôsobuje a pripravuje túžiaceho prijať to, po čom túži. Kto teda bude mať väčšiu lásku, uvidí Boha dokonalejšie a bude blaženejší.",
+          "K prvej námietke treba povedať, že vo výroku „Uvidíme ho takého, aký je“ slová „takého, aký“ určujú spôsob videnia zo strany videnej veci. Zmysel je, že ho uvidíme takého, aký je, lebo uvidíme jeho vlastné bytie, ktorým je jeho esencia. Tento výrok však neurčuje spôsob videnia zo strany pozorovateľa. Nehovorí, že budeme vidieť tak dokonale, ako dokonale Boh jestvuje.",
+          "Tým je zrejmé aj riešenie druhej námietky. Keď sa hovorí, že tú istú vec jeden nechápe lepšie než iný, platí to vo vzťahu k tomu, aká je chápaná vec. Kto totiž vec chápe inak, než aká je, nechápe ju pravdivo. Vo vzťahu k spôsobu chápania to však neplatí, lebo chápanie jedného môže byť dokonalejšie než chápanie iného.",
+          "K tretej námietke treba povedať, že rozdiel vo videní nebude spočívať v predmete, pretože všetkým bude prítomný ten istý predmet, Božia esencia. Nebude spočívať ani v rozličnej účasti na predmete prostredníctvom odlišných podôb. Bude spočívať v rozdielnej schopnosti rozumu, ktorú dáva sláva, ako sa povedalo."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a07",
       "title": {
-        "la": "Quaestio 12 · Articulus 7"
+        "la": "Quaestio 12 · Articulus 7",
+        "sk": "7. článok · Či môže stvorený rozum obsiahnuť Božiu esenciu"
       },
       "text": {
         "la": [
@@ -2298,17 +2378,29 @@
           "Ad primum ergo dicendum quod comprehensio dicitur dupliciter. Uno modo, stricte et proprie, secundum quod aliquid includitur in comprehendente. Et sic nullo modo Deus comprehenditur, nec intellectu nec aliquo alio, quia, cum sit infinitus, nullo finito includi potest, ut aliquid finitum eum infinite capiat, sicut ipse infinite est. Et sic de comprehensione nunc quaeritur. Alio modo comprehensio largius sumitur, secundum quod comprehensio insecutioni opponitur. Qui enim attingit aliquem, quando iam tenet ipsum, comprehendere eum dicitur. Et sic Deus comprehenditur a beatis, secundum illud Cant. III, tenui eum, nec dimittam. Et sic intelliguntur auctoritates apostoli de comprehensione. Et hoc modo comprehensio est una de tribus dotibus animae, quae respondet spei; sicut visio fidei, et fruitio caritati. Non enim, apud nos, omne quod videtur, iam tenetur vel habetur, quia videntur interdum distantia, vel quae non sunt in potestate nostra. Neque iterum omnibus quae habemus, fruimur, vel quia non delectamur in eis; vel quia non sunt ultimus finis desiderii nostri, ut desiderium nostrum impleant et quietent. Sed haec tria habent beati in Deo, quia et vident ipsum; et videndo, tenent sibi praesentem, in potestate habentes semper eum videre; et tenentes, fruuntur sicut ultimo fine desiderium implente.",
           "Ad secundum dicendum quod non propter hoc Deus incomprehensibilis dicitur, quasi aliquid eius sit quod non videatur, sed quia non ita perfecte videtur, sicut visibilis est. Sicut cum aliqua demonstrabilis propositio per aliquam probabilem rationem cognoscitur, non est aliquid eius quod non cognoscatur, nec subiectum, nec praedicatum, nec compositio, sed tota non ita perfecte cognoscitur, sicut cognoscibilis est. Unde Augustinus, definiendo comprehensionem, dicit quod totum comprehenditur videndo, quod ita videtur, ut nihil eius lateat videntem; aut cuius fines circumspici possunt, tunc enim fines alicuius circumspiciuntur, quando ad finem in modo cognoscendi illam rem pervenitur.",
           "Ad tertium dicendum quod totaliter dicit modum obiecti, non quidem ita quod totus modus obiecti non cadat sub cognitione; sed quia modus obiecti non est modus cognoscentis. Qui igitur videt Deum per essentiam, videt hoc in eo, quod infinite existit, et infinite cognoscibilis est, sed hic infinitus modus non competit ei, ut scilicet ipse infinite cognoscat, sicut aliquis probabiliter scire potest aliquam propositionem esse demonstrabilem, licet ipse eam demonstrative non cognoscat."
+        ],
+        "sk": [
+          "Zdá sa, že tí, ktorí vidia Boha v jeho esencii, ho obsiahnu. Apoštol totiž v Liste Filipanom (3, 12) hovorí: „Usilujem sa, či by som ho nejako nedosiahol.“ Jeho úsilie nebolo márne, lebo v Prvom liste Korinťanom (9, 26) sám hovorí: „Bežím s istotou, kam smerujem.“ Dosiahol ho teda on a z toho istého dôvodu aj iní, ktorých k tomu vyzýva slovami: „Bežte tak, aby ste dosiahli cieľ.“",
+          "Ďalej, podľa Augustína v diele O videní Boha, adresovanom Pauline, je obsiahnuté to, čo vidíme tak celé, že pred pozorovateľom z toho nič nezostáva skryté. Ak však Boha vidíme v jeho esencii, vidíme ho celého a nič z neho pred pozorovateľom nezostáva skryté, lebo Boh je jednoduchý. Každý, kto ho vidí v jeho esencii, ho teda obsiahne.",
+          "Ak sa povie, že Boha vidíme celého, ale nie úplne, stojí proti tomu toto. Slovo „úplne“ označuje buď spôsob pozorovateľa, alebo spôsob videnej veci. Ak označuje spôsob videnej veci, ten, kto vidí Boha v jeho esencii, ho vidí úplne, lebo ho vidí takého, aký je, ako sa povedalo. Rovnako ho vidí úplne, ak sa označuje spôsob pozorovateľa, lebo rozum bude vidieť Božiu esenciu celou svojou silou. Každý, kto vidí Boha v jeho esencii, ho teda uvidí úplne, a tak ho obsiahne.",
+          "Proti tomu stoja slová Jeremiáša (32, 18–19): „Najsilnejší, veľký a mocný, Pán zástupov je tvoje meno. Si veľký v zámere a neobsiahnuteľný mysľou.“ Boha teda nemožno obsiahnuť.",
+          "Odpovedám, že nijaký stvorený rozum nemôže obsiahnuť Boha. Aj akokoľvek dospieť k Bohu mysľou je však veľkou blaženosťou, ako hovorí Augustín. Aby to bolo zrejmé, treba vedieť, že obsiahnuté je to, čo sa poznáva dokonale. Dokonale sa poznáva to, čo sa poznáva natoľko, nakoľko je poznateľné. Ak teda niekto prijíma len ako mienku z pravdepodobného dôvodu to, čo je poznateľné dokazovaním, ešte to neobsiahol. Ak napríklad niekto dôkazom vie, že súčet troch uhlov trojuholníka sa rovná dvom pravým uhlom, túto pravdu obsiahol. Ak to prijíma ako pravdepodobnú mienku preto, že to hovoria múdri alebo mnohí, neobsiahol ju. Nedosiahol totiž dokonalý spôsob poznania, ktorým je poznateľná. Nijaký stvorený rozum však nemôže dosiahnuť dokonalý spôsob poznania Božej esencie, ktorým je poznateľná. Vidno to takto. Každá vec je poznateľná natoľko, nakoľko je súcnom v uskutočnení. Keďže Božie bytie je nekonečné, ako sa ukázalo vyššie, Boh je poznateľný do nekonečna. Nijaký stvorený rozum však nemôže poznávať Boha nekonečne. Božiu esenciu poznáva dokonalejšie alebo menej dokonale podľa toho, či ho preniká väčšie alebo menšie svetlo slávy. Stvorené svetlo slávy, prijaté v ktoromkoľvek stvorenom rozume, nemôže byť nekonečné. Preto nijaký stvorený rozum nemôže poznávať Boha nekonečne, a teda ho nemôže obsiahnuť.",
+          "K prvej námietke treba povedať, že slovo „obsiahnuť“ má dva významy. V presnom a vlastnom zmysle znamená zahrnúť niečo do toho, čo to obsiahne. V tomto zmysle Boha nemôže obsiahnuť rozum ani nič iné. Keďže je nekonečný, nič konečné sa ho nemôže zmocniť v celej nekonečnosti, v akej jestvuje. O takom obsiahnutí je tu reč. Obsiahnuť sa však berie aj v širšom zmysle a vtedy sa stavia proti približovaniu sa k cieľu. Keď niekto druhého dostihne a už ho drží, hovorí sa, že ho dosiahol. V tomto zmysle blažení Boha dosahujú, podľa slov Piesne piesní (3, 4): „Chytila som ho a nepustím.“ Tak treba rozumieť aj apoštolovým slovám o dosiahnutí. V tomto zmysle je dosiahnutie jedným z troch darov duše a zodpovedá nádeji, ako videnie zodpovedá viere a spočinutie v Bohu láske. U nás totiž ešte nedržíme ani nemáme všetko, čo vidíme, lebo niekedy vidíme vzdialené veci alebo veci mimo našej moci. A netešíme sa zo všetkého, čo máme, buď preto, že v tom nenachádzame potešenie, alebo preto, že to nie je posledný cieľ, ktorý by našu túžbu naplnil a utíšil. Blažení však majú v Bohu všetky tri dary. Vidia ho. Keď ho vidia, majú ho trvalo prítomného a môžu ho vždy vidieť. A keď ho majú, tešia sa z neho ako z posledného cieľa, ktorý napĺňa túžbu.",
+          "K druhej námietke treba povedať, že Boh sa nazýva neobsiahnuteľným preto, že sa nevidí tak dokonale, ako je viditeľný. Neznamená to, že by z neho niečo zostalo nevidené. Podobne, ak sa výrok, ktorý možno dokázať, poznáva z pravdepodobného dôvodu, poznáva sa jeho subjekt, predikát aj ich spojenie. Celý výrok sa však nepoznáva tak dokonale, ako je poznateľný. Preto Augustín pri vymedzení obsiahnutia hovorí, že videním sa obsiahne celok, ktorý vidíme tak, že nič z neho nie je pred pozorovateľom skryté alebo že dokáže dohliadnuť k jeho hraniciam. K hraniciam veci totiž dohliadneme, keď v spôsobe jej poznávania dosiahneme najvyššiu možnú mieru.",
+          "K tretej námietke treba povedať, že „úplne“ označuje spôsob predmetu v tom zmysle, že spôsob, akým predmet jestvuje, nie je spôsobom, akým ho poznávajúci poznáva. Samotný spôsob bytia predmetu pritom môže byť predmetom poznania. Kto teda vidí Boha v jeho esencii, vidí v ňom, že jestvuje nekonečne a že je poznateľný do nekonečna. Sám však nemá nekonečný spôsob poznávania. Podobne možno z pravdepodobného dôvodu vedieť, že nejaký výrok sa dá dokázať, hoci ho človek sám nepozná z dôkazu."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a08",
       "title": {
-        "la": "Quaestio 12 · Articulus 8"
+        "la": "Quaestio 12 · Articulus 8",
+        "sk": "8. článok · Či ten, kto vidí Božiu esenciu, poznáva v nej všetko"
       },
       "text": {
         "la": [
@@ -2322,17 +2414,31 @@
           "Ad secundum dicendum quod videns speculum, non est necessarium quod omnia in speculo videat, nisi speculum visu suo comprehendat.",
           "Ad tertium dicendum quod, licet maius sit videre Deum quam omnia alia, tamen maius est videre sic Deum quod omnia in eo cognoscantur, quam videre sic ipsum quod non omnia, sed pauciora vel plura cognoscantur in eo. Iam enim ostensum est quod multitudo cognitorum in Deo, consequitur modum videndi ipsum vel magis perfectum vel minus perfectum.",
           "Ad quartum dicendum quod naturale desiderium rationalis creaturae est ad sciendum omnia illa quae pertinent ad perfectionem intellectus; et haec sunt species et genera rerum, et rationes earum, quae in Deo videbit quilibet videns essentiam divinam. Cognoscere autem alia singularia, et cogitata et facta eorum, non est de perfectione intellectus creati, nec ad hoc eius naturale desiderium tendit, nec iterum cognoscere illa quae nondum sunt, sed fieri a Deo possunt. Si tamen solus Deus videretur, qui est fons et principium totius esse et veritatis, ita repleret naturale desiderium sciendi, quod nihil aliud quaereretur, et beatus esset. Unde dicit Augustinus, V Confess., infelix homo qui scit omnia illa (scilicet creaturas), te autem nescit, beatus autem qui te scit, etiam si illa nesciat. Qui vero te et illa novit, non propter illa beatior est, sed propter te solum beatus."
+        ],
+        "sk": [
+          "Zdá sa, že tí, ktorí vidia Boha v jeho esencii, vidia v Bohu všetko. Gregor totiž vo štvrtej knihe Dialógov hovorí: „Čo by nevideli tí, ktorí vidia toho, kto vidí všetko?“ Boh však vidí všetko. Preto všetko vidia tí, ktorí vidia Boha.",
+          "Ďalej, kto vidí zrkadlo, vidí aj to, čo sa v ňom odráža. Všetko, čo sa deje alebo sa môže stať, sa však odráža v Bohu ako v zrkadle. On totiž všetko poznáva v sebe samom. Kto teda vidí Boha, vidí všetko, čo je a čo môže vzniknúť.",
+          "Ďalej, kto chápe to, čo je väčšie, môže chápať aj najmenšie veci, ako sa hovorí v tretej knihe O duši. Všetko, čo Boh koná alebo môže konať, je však menšie než jeho esencia. Kto teda chápe Boha, môže chápať všetko, čo Boh koná alebo môže konať.",
+          "Ďalej, rozumné stvorenie prirodzene túži vedieť všetko. Ak teda pri videní Boha nevie všetko, jeho prirodzená túžba nenachádza pokoj, a tak pri videní Boha nebude blažené. To je neprijateľné. Pri videní Boha teda vie všetko.",
+          "Proti tomu stojí, že anjeli vidia Boha v jeho esencii, a predsa nevedia všetko. Vyšší anjeli totiž očisťujú nižších od nevedomosti, ako hovorí Dionýz v siedmej kapitole Nebeskej hierarchie. Ani anjeli nepoznajú budúce udalosti, ktoré môžu nastať aj nenastať a myšlienky sŕdc. To prináleží iba Bohu. Teda ani každý, kto vidí Božiu esenciu, nevidí všetko.",
+          "Odpovedám, že stvorený rozum pri videní Božej esencie v nej nevidí všetko, čo Boh koná alebo môže konať. Je totiž zrejmé, že veci sa v Bohu vidia tak, ako sú v ňom. Všetky ostatné veci sú v Bohu tak, ako sú účinky v moci svojej príčiny. Iné veci sa teda vidia v Bohu ako účinky v ich príčine. Je však zrejmé, že čím dokonalejšie niekto vidí príčinu, tým viac jej účinkov môže v nej vidieť. Človek s prenikavým rozumom totiž z jedného predloženého princípu dokazovania hneď pozná mnohé závery. Človeku so slabším rozumom treba vysvetliť jednotlivé závery osobitne. Všetky účinky príčiny a všetky ich pojmy teda môže v príčine poznať ten rozum, ktorý príčinu úplne obsiahne. Nijaký stvorený rozum však nemôže úplne obsiahnuť Boha, ako sa ukázalo. Preto pri videní Boha nijaký stvorený rozum nemôže poznať všetko, čo Boh koná alebo môže konať. Musel by totiž obsiahnuť jeho moc. Čím dokonalejšie však rozum Boha vidí, tým viac z toho, čo Boh koná alebo môže konať, poznáva.",
+          "K prvej námietke treba povedať, že Gregor hovorí o dostatočnosti predmetu videnia, čiže Boha, ktorý sám osebe dostatočne obsahuje a ukazuje všetko. Z toho však nevyplýva, že každý, kto vidí Boha, poznáva všetko, lebo Boha svojím rozumom dokonale neobsiahne.",
+          "K druhej námietke treba povedať, že kto vidí zrkadlo, nemusí v ňom vidieť všetko, ak pohľadom neobsiahne celé zrkadlo.",
+          "K tretej námietke treba povedať, že vidieť Boha je viac než vidieť všetko ostatné. Vidieť ho tak, že sa v ňom poznáva všetko, je však viac než ho vidieť spôsobom, pri ktorom sa v ňom poznáva menší alebo väčší počet vecí. Už sa totiž ukázalo, že množstvo poznaného v Bohu závisí od dokonalejšieho alebo menej dokonalého spôsobu jeho videnia.",
+          "K štvrtej námietke treba povedať, že rozumné stvorenie prirodzene túži vedieť všetko, čo patrí k dokonalosti rozumu. Sú to druhy a rody vecí a ich pojmy. Tie v Bohu uvidí každý, kto vidí Božiu esenciu. K dokonalosti stvoreného rozumu však nepatrí poznať ďalšie jednotlivé veci, ich myšlienky a skutky, ani to, čo ešte nejestvuje, hoci to Boh môže uskutočniť. Jeho prirodzená túžba k tomu nesmeruje. Keby však človek videl len Boha, ktorý je prameňom a princípom všetkého bytia a pravdy, samo toto videnie by tak naplnilo jeho prirodzenú túžbu po poznaní, že by už nič iné nehľadal a bol by blažený. Preto Augustín v piatej knihe Vyznaní hovorí: „Nešťastný je človek, ktorý pozná všetky tie veci,“ totiž stvorenia, „a teba nepozná. Blažený však je ten, kto pozná teba, hoci tie veci nepozná. Kto pozná teba aj ich, pre ne nie je blaženejší. Blažený je jedine vďaka tebe.“"
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a09",
       "title": {
-        "la": "Quaestio 12 · Articulus 9"
+        "la": "Quaestio 12 · Articulus 9",
+        "sk": "9. článok · Či to, čo vidíme v Bohu, vidíme prostredníctvom podôb"
       },
       "text": {
         "la": [
@@ -2342,17 +2448,27 @@
           "Respondeo dicendum quod videntes Deum per essentiam, ea quae in ipsa essentia Dei vident, non vident per aliquas species, sed per ipsam essentiam divinam intellectui eorum unitam. Sic enim cognoscitur unumquodque, secundum quod similitudo eius est in cognoscente. Sed hoc contingit dupliciter. Cum enim quaecumque uni et eidem sunt similia, sibi invicem sint similia, virtus cognoscitiva dupliciter assimilari potest alicui cognoscibili. Uno modo, secundum se, quando directe eius similitudine informatur, et tunc cognoscitur illud secundum se. Alio modo, secundum quod informatur specie alicuius quod est ei simile, et tunc non dicitur res cognosci in seipsa, sed in suo simili. Alia enim est cognitio qua cognoscitur aliquis homo in seipso, et alia qua cognoscitur in sua imagine. Sic ergo, cognoscere res per earum similitudines in cognoscente existentes, est cognoscere eas in seipsis, seu in propriis naturis, sed cognoscere eas prout earum similitudines praeexistunt in Deo, est videre eas in Deo. Et hae duae cognitiones differunt. Unde secundum illam cognitionem qua res cognoscuntur a videntibus Deum per essentiam in ipso Deo, non videntur per aliquas similitudines alias; sed per solam essentiam divinam intellectui praesentem, per quam et Deus videtur.",
           "Ad primum ergo dicendum quod intellectus videntis Deum assimilatur rebus quae videntur in Deo, inquantum unitur essentiae divinae, in qua rerum omnium similitudines praeexistunt.",
           "Ad secundum dicendum quod aliquae potentiae cognoscitivae sunt, quae ex speciebus primo conceptis alias formare possunt. Sicut imaginatio ex praeconceptis speciebus montis et auri, format speciem montis aurei, et intellectus ex praeconceptis speciebus generis et differentiae, format rationem speciei. Et similiter ex similitudine imaginis formare possumus in nobis similitudinem eius cuius est imago. Et sic Paulus, vel quicumque alius videns Deum, ex ipsa visione essentiae divinae potest formare in se similitudines rerum quae in essentia divina videntur, quae remanserunt in Paulo etiam postquam desiit Dei essentiam videre. Ista tamen visio, qua videntur res per huiusmodi species sic conceptas, est alia a visione qua videntur res in Deo."
+        ],
+        "sk": [
+          "Zdá sa, že tí, ktorí vidia Božiu esenciu, vidia to, čo je v Bohu, prostredníctvom nejakých podôb. Všetko poznanie sa totiž deje pripodobnením poznávajúceho k poznávanému. Tak sa rozum v uskutočnení stáva chápaným v uskutočnení a zmysel v uskutočnení zmyslovo vnímateľným v uskutočnení, nakoľko prijíma jeho podobu ako svoju formu, tak ako zrenica prijíma podobu farby. Ak teda rozum toho, kto vidí Boha v jeho esencii, chápe v Bohu nejaké stvorenia, musí prijať ich podoby ako svoju formu.",
+          "Ďalej, čo sme predtým videli, uchovávame v pamäti. Pavol podľa Augustína v dvanástej knihe Doslovného výkladu Genezis videl vo vytržení Božiu esenciu a potom, keď ju prestal vidieť, si pamätal mnohé z toho, čo v tomto vytržení videl. Preto sám hovorí, že počul tajomné slová, ktoré človek nesmie vysloviť (2 Kor 12, 4). V jeho rozume teda museli zostať nejaké podoby toho, na čo si spomínal. Z toho istého dôvodu mal nejaké podoby či poznávacie formy toho, čo videl v Božej esencii, už vtedy, keď ju skutočne videl.",
+          "Proti tomu stojí, že tou istou poznávacou podobou vidíme zrkadlo aj to, čo sa v ňom javí. V Bohu však všetko vidíme ako v rozumovo poznateľnom zrkadle. Ak teda Boha vidíme jeho vlastnou esenciou, ani na videnie toho, čo je v ňom, netreba ďalšie podoby alebo poznávacie formy.",
+          "Odpovedám, že tí, ktorí vidia Boha v jeho esencii, vidia to, čo sa im v nej ukazuje, samou Božou esenciou spojenou s ich rozumom. Nepotrebujú na to ďalšie poznávacie podoby. Každú vec totiž poznávame natoľko, nakoľko je jej podoba v poznávajúcom. To sa však deje dvojako. Keďže všetko, čo je podobné tomu istému, je si podobné aj navzájom, poznávacia schopnosť sa môže pripodobniť poznateľnej veci dvojakým spôsobom. Po prvé priamo, keď dostane formu jej vlastnou podobou. Vtedy sa tá vec poznáva sama osebe. Po druhé, keď dostane formu poznávacou podobou niečoho, čo sa tej veci podobá. Vtedy sa vec poznáva v tom, čo sa jej podobá. Inak totiž poznávame človeka samého a inak ho poznávame v jeho obraze. Poznávať veci prostredníctvom ich podôb v poznávajúcom znamená poznávať ich samy osebe, čiže v ich vlastnej prirodzenosti. Poznávať ich podľa toho, ako sú ich podoby vopred v Bohu, znamená vidieť ich v Bohu. Sú to dva odlišné spôsoby poznania. Pri poznaní, ktorým tí, čo vidia Boha v jeho esencii, poznávajú veci v samom Bohu, sa teda veci vidia jedine prostredníctvom Božej esencie, ktorá je prítomná rozumu a ktorou vidí aj samého Boha.",
+          "K prvej námietke treba povedať, že rozum toho, kto vidí Boha, sa pripodobňuje veciam, ktoré sa vidia v Bohu, tým, že sa spája s Božou esenciou, v ktorej sú vopred podoby všetkých vecí.",
+          "K druhej námietke treba povedať, že niektoré poznávacie schopnosti dokážu z prvotne utvorených podôb vytvoriť iné. Obrazotvornosť napríklad zo skôr utvorenej podoby vrchu a zlata vytvorí podobu zlatého vrchu. Rozum z vopred utvorených podôb rodu a druhového rozdielu utvorí pojem druhu. Podobne z podoby obrazu môžeme v sebe utvoriť podobu toho, koho obraz zobrazuje. Tak mohol Pavol alebo ktokoľvek iný, kto vidí Boha, zo samého videnia Božej esencie utvoriť v sebe podoby vecí, ktoré v nej videl. Tie v Pavlovi zostali aj po tom, čo prestal vidieť Božiu esenciu. Videnie, pri ktorom sa veci vidia prostredníctvom takto utvorených podôb, sa však líši od videnia vecí v Bohu."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a10",
       "title": {
-        "la": "Quaestio 12 · Articulus 10"
+        "la": "Quaestio 12 · Articulus 10",
+        "sk": "10. článok · Či sa všetko, čo vidíme v Bohu, vidí naraz"
       },
       "text": {
         "la": [
@@ -2362,17 +2478,27 @@
           "Respondeo dicendum quod ea quae videntur in verbo, non successive, sed simul videntur. Ad cuius evidentiam considerandum est, quod ideo nos simul non possumus multa intelligere, quia multa per diversas species intelligimus; diversis autem speciebus non potest intellectus unus simul actu informari ad intelligendum per eas, sicut nec unum corpus potest simul diversis figuris figurari. Unde contingit quod, quando aliqua multa una specie intelligi possunt, simul intelliguntur, sicut diversae partes alicuius totius, si singulae propriis speciebus intelligantur, successive intelliguntur, et non simul; si autem omnes intelligantur una specie totius, simul intelliguntur. Ostensum est autem quod ea quae videntur in Deo, non videntur singula per suas similitudines, sed omnia per unam essentiam Dei. Unde simul, et non successive videntur.",
           "Ad primum ergo dicendum quod sic unum tantum intelligimus, inquantum una specie intelligimus. Sed multa una specie intellecta simul intelliguntur, sicut in specie hominis intelligimus animal et rationale, et in specie domus parietem et tectum.",
           "Ad secundum dicendum quod Angeli, quantum ad cognitionem naturalem qua cognoscunt res per species diversas eis inditas, non simul omnia cognoscunt, et sic moventur, secundum intelligentiam, per tempus. Sed secundum quod vident res in Deo, simul eas vident."
+        ],
+        "sk": [
+          "Zdá sa, že tí, ktorí vidia Boha v jeho esencii, nevidia naraz všetko, čo v ňom vidia. Podľa Filozofa totiž môžeme vedieť mnoho vecí, ale naraz chápať iba jednu. To, čo vidíme v Bohu, však chápeme, lebo Boha vidíme rozumom. Kto teda vidí Boha, nemôže v ňom vidieť naraz mnoho vecí.",
+          "Ďalej, Augustín v ôsmej knihe Doslovného výkladu Genezis hovorí, že Boh pohybuje duchovným stvorením prostredníctvom času, čiže prostredníctvom jeho chápania a náklonnosti. Anjel, ktorý vidí Boha, je však duchovným stvorením. Tí, ktorí vidia Boha, teda chápu a majú náklonnosti postupne, lebo čas zahŕňa postupnosť.",
+          "Proti tomu stojí, čo hovorí Augustín v poslednej knihe O Trojici: „Naše myšlienky sa nebudú striedať, prechádzať od jednej veci k druhej a vracať sa. Celé svoje poznanie uvidíme naraz jediným pohľadom.“",
+          "Odpovedám, že to, čo vidíme v Slove, vidíme naraz. Aby to bolo zrejmé, treba uvážiť, že nemôžeme naraz chápať mnoho vecí, pretože ich chápeme prostredníctvom rozličných poznávacích podôb. Jeden rozum nemôže naraz skutočne prijať rozličné podoby ako svoje formy a chápať ich prostredníctvom, tak ako jedno teleso nemôže mať naraz rozličné tvary. Keď však možno viacero vecí chápať jednou podobou, chápeme ich naraz. Ak napríklad chápeme jednotlivé časti nejakého celku prostredníctvom vlastných podôb, chápeme ich postupne. Ak však všetky chápeme jedinou podobou celku, chápeme ich naraz. Ukázalo sa, že veci, ktoré sa vidia v Bohu, sa nevidia jednotlivo prostredníctvom vlastných podôb, ale všetky jedinou Božou esenciou. Preto sa vidia naraz.",
+          "K prvej námietke treba povedať, že chápeme len jednu vec, pokiaľ ju chápeme jedinou podobou. Ak však jedinou podobou chápeme mnohé veci, chápeme ich naraz. Tak v podobe človeka chápeme živočíšnosť aj rozumnosť a v podobe domu stenu aj strechu.",
+          "K druhej námietke treba povedať, že pri prirodzenom poznaní, ktorým anjeli poznávajú veci prostredníctvom rozličných podôb vložených do nich, nepoznávajú všetko naraz. V chápaní sa tak pohybujú prostredníctvom času. Pokiaľ však veci vidia v Bohu, vidia ich naraz."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a11",
       "title": {
-        "la": "Quaestio 12 · Articulus 11"
+        "la": "Quaestio 12 · Articulus 11",
+        "sk": "11. článok · Či môže človek vidieť Božiu esenciu v tomto živote"
       },
       "text": {
         "la": [
@@ -2386,17 +2512,31 @@
           "Ad secundum dicendum quod, sicut Deus miraculose aliquid supernaturaliter in rebus corporeis operatur, ita etiam et supernaturaliter, et praeter communem ordinem, mentes aliquorum in hac carne viventium, sed non sensibus carnis utentium, usque ad visionem suae essentiae elevavit; ut dicit Augustinus, XII super Genes. ad Litt., et in libro de videndo Deum de Moyse, qui fuit magister Iudaeorum, et Paulo, qui fuit magister gentium. Et de hoc plenius tractabitur, cum de raptu agemus.",
           "Ad tertium dicendum quod omnia dicimur in Deo videre, et secundum ipsum de omnibus iudicare, inquantum per participationem sui luminis omnia cognoscimus et diiudicamus, nam et ipsum lumen naturale rationis participatio quaedam est divini luminis; sicut etiam omnia sensibilia dicimus videre et iudicare in sole, idest per lumen solis. Unde dicit Augustinus, I Soliloquiorum, disciplinarum spectamina videri non possunt, nisi aliquo velut suo sole illustrentur, videlicet Deo. Sicut ergo ad videndum aliquid sensibiliter, non est necesse quod videatur substantia solis, ita ad videndum aliquid intelligibiliter, non est necessarium quod videatur essentia Dei.",
           "Ad quartum dicendum quod visio intellectualis est eorum quae sunt in anima per suam essentiam sicut intelligibilia in intellectu. Sic autem Deus est in anima beatorum, non autem in anima nostra; sed per praesentiam, essentiam, et potentiam."
+        ],
+        "sk": [
+          "Zdá sa, že v tomto živote môže niekto vidieť Boha v jeho esencii. Jakub totiž v Knihe Genezis (32, 31) hovorí: „Videl som Boha z tváre do tváre.“ Vidieť z tváre do tváre však znamená vidieť v esencii, ako vidno zo slov Prvého listu Korinťanom (13, 12): „Teraz vidíme v zrkadle a v hádanke, potom však z tváre do tváre.“ Boha teda možno v tomto živote vidieť v jeho esencii.",
+          "Ďalej, v Knihe Numeri (12, 8) Pán hovorí o Mojžišovi: „Hovorím s ním z úst do úst, otvorene, bez hádaniek a obrazov. Vidí Boha.“ To však znamená vidieť Boha v jeho esencii. Niekto teda môže vidieť Boha v jeho esencii už v stave tohto života.",
+          "Ďalej, čo nám umožňuje poznať všetko ostatné a podľa čoho o ostatnom usudzujeme, je nám známe samo osebe. Aj teraz však všetko poznávame v Bohu. Augustín totiž v dvanástej knihe Vyznaní hovorí: „Ak obaja vidíme, že je pravdivé, čo hovoríš ty, a obaja vidíme, že je pravdivé, čo hovorím ja, kde to, prosím, vidíme? Ja v tebe ani ty vo mne, ale obaja v samej nemennej pravde, ktorá je nad našimi mysľami.“ V diele O pravom náboženstve tiež hovorí, že o všetkom usudzujeme podľa Božej pravdy. A v dvanástej knihe O Trojici hovorí, že rozumu prináleží usudzovať o telesných veciach podľa netelesných a večných princípov. Keby tie neboli nad mysľou, určite by neboli nemenné. Teda aj v tomto živote vidíme samého Boha.",
+          "Ďalej, podľa Augustína v dvanástej knihe Doslovného výkladu Genezis pri rozumovom videní vidíme veci, ktoré sú v duši svojimi esenciami. Pri rozumovom videní sa totiž rozumovo poznateľné veci nevidia prostredníctvom podôb, ale svojimi esenciami, ako tam sám hovorí. Keďže je teda Boh svojou esenciou v našej duši, vidíme ho v jeho esencii.",
+          "Proti tomu stoja slová Knihy Exodus (33, 20): „Človek ma neuvidí a nezostane nažive.“ Glosa k tomu hovorí, že kým tu človek žije smrteľným životom, Boha môže vidieť prostredníctvom istých obrazov, avšak nemôže ho vidieť v podobe jeho vlastnej prirodzenosti.",
+          "Odpovedám, že človek, ktorý je iba človekom, nemôže vidieť Boha v jeho esencii, ak nie je odlúčený od tohto smrteľného života. Dôvodom je, že spôsob poznania zodpovedá spôsobu prirodzenosti poznávajúceho, ako sa povedalo vyššie. Kým žijeme v tomto živote, naša duša má bytie v telesnej látke. Prirodzene teda poznáva len veci, ktoré majú formu v látke, alebo veci, ktoré možno poznať prostredníctvom takýchto vecí. Je však zrejmé, že z prirodzeností látkových vecí nemožno poznať Božiu esenciu. Vyššie sa totiž ukázalo, že poznanie Boha prostredníctvom akejkoľvek stvorenej podoby nedáva videnie jeho esencie. Duša človeka, ktorý žije podľa spôsobu tohto života, preto nemôže vidieť Božiu esenciu. Naznačuje to aj skúsenosť, že čím viac sa naša duša odpútava od telesných vecí, tým je schopnejšia chápať to, čo je od nich oddelené. V snoch a pri vytržení z telesného vnímania ľudia ľahšie prijímajú Božie zjavenia a predvídajú budúce udalosti. Kým však duša žije týmto smrteľným životom, nemôže byť pozdvihnutá k najvyššiemu predmetu rozumu, ktorým je Božia esencia.",
+          "K prvej námietke treba podľa Dionýza v štvrtej kapitole Nebeskej hierarchie povedať, že Písmo hovorí o videní Boha, keď vzniknú zmyslovo vnímateľné alebo obrazné podoby, ktoré na základe istej podobnosti sprítomňujú niečo Božie. Jakubove slová „Videl som Boha z tváre do tváre“ sa preto vzťahujú na podobu, v ktorej sa Boh sprítomnil. Už to, že prorok vidí samú osobu hovoriaceho Boha, hoci v obraznom videní, patrí k istému vyššiemu stupňu proroctva, ako sa ukáže ďalej pri stupňoch proroctva. Alebo tým Jakub označuje istú výnimočnú výšku rozumového nazerania, ktorá presahuje bežný stav.",
+          "K druhej námietke treba povedať, že ako Boh zázračne pôsobí v telesných veciach nadprirodzeným spôsobom, tak nadprirodzene a mimo bežného poriadku pozdvihol mysle niektorých ľudí, ktorí ešte žili v tele, no práve nepoužívali telesné zmysly, až k videniu svojej esencie. Augustín to hovorí v dvanástej knihe Doslovného výkladu Genezis a v diele O videní Boha o Mojžišovi, ktorý bol učiteľom Židov, a o Pavlovi, ktorý bol učiteľom národov. Podrobnejšie sa tým budeme zaoberať pri výklade o vytržení.",
+          "K tretej námietke treba povedať, že o všetkom hovoríme, že to vidíme v Bohu a že podľa neho o tom usudzujeme, pretože všetko poznávame a posudzujeme účasťou na jeho svetle. Aj samo prirodzené svetlo rozumu je totiž istou účasťou na Božom svetle. Podobne hovoríme, že všetko zmyslovo vnímateľné vidíme a posudzujeme v slnku, čiže v jeho svetle. Preto Augustín v prvej knihe Rozhovorov so sebou hovorí, že predmety vied nemožno vidieť, ak ich neosvieti akoby ich vlastné slnko, totiž Boh. Ako pri zmyslovom videní niečoho nemusíme vidieť substanciu slnka, tak pri rozumovom poznaní niečoho nemusíme vidieť Božiu esenciu.",
+          "K štvrtej námietke treba povedať, že pri rozumovom videní sa vidia veci, ktoré sú v duši svojou esenciou tak, ako je chápané v rozume. Takto je Boh v duši blažených. V našej duši je svojou prítomnosťou, esenciou a mocou."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a12",
       "title": {
-        "la": "Quaestio 12 · Articulus 12"
+        "la": "Quaestio 12 · Articulus 12",
+        "sk": "12. článok · Či v tomto živote môžeme poznať Boha prirodzeným rozumom"
       },
       "text": {
         "la": [
@@ -2408,17 +2548,29 @@
           "Ad primum ergo dicendum quod ratio ad formam simplicem pertingere non potest, ut sciat de ea quid est, potest tamen de ea cognoscere, ut sciat an est.",
           "Ad secundum dicendum quod Deus naturali cognitione cognoscitur per phantasmata effectus sui.",
           "Ad tertium dicendum quod cognitio Dei per essentiam, cum sit per gratiam, non competit nisi bonis, sed cognitio eius quae est per rationem naturalem, potest competere bonis et malis. Unde dicit Augustinus, in libro Retractationum, non approbo quod in oratione dixi, Deus, qui non nisi mundos verum scire voluisti, responderi enim potest, multos etiam non mundos multa scire vera, scilicet per rationem naturalem."
+        ],
+        "sk": [
+          "Zdá sa, že v tomto živote nemôžeme Boha poznať prirodzeným rozumom. Boethius totiž v Úteche z filozofie hovorí, že rozum neobsiahne jednoduchú formu. Boh je však nanajvýš jednoduchou formou, ako sa ukázalo vyššie. Prirodzený rozum teda nemôže dospieť k jeho poznaniu.",
+          "Ďalej, duša prirodzeným rozumom nič nechápe bez zmyslovej predstavy, ako sa hovorí v tretej knihe O duši. Keďže je však Boh netelesný, nemôže byť v nás nijaká zmyslová predstava Boha. Prirodzeným poznaním ho teda nemôžeme poznať.",
+          "Ďalej, poznanie prirodzeným rozumom je spoločné dobrým aj zlým tak, ako je im spoločná prirodzenosť. Poznanie Boha však prináleží len dobrým. Augustín totiž v prvej knihe O Trojici hovorí, že zrak ľudskej mysle nemôže spočinúť v takom vznešenom svetle, ak ho neočistí spravodlivosť viery. Boha teda nemožno poznať prirodzeným rozumom.",
+          "Proti tomu stoja slová Listu Rimanom (1, 19): „Čo možno o Bohu poznať, je im zjavné“, čiže to, čo je o Bohu poznateľné prirodzeným rozumom.",
+          "Odpovedám, že naše prirodzené poznanie sa začína zmyslami. Siaha preto len tak ďaleko, ako ho môžu priviesť zmyslovo vnímateľné veci. Od nich však náš rozum nemôže dospieť až k videniu Božej esencie, lebo zmyslovo vnímateľné stvorenia sú Božími účinkami, ktoré sa nevyrovnajú moci svojej príčiny. Z poznania zmyslovo vnímateľných vecí teda nemožno poznať celú Božiu moc, a preto ani vidieť jeho esenciu. Keďže sú to však jeho účinky a závisia od svojej príčiny, môžu nás priviesť k poznaniu, že Boh jestvuje, aj k poznaniu toho, čo mu nevyhnutne prináleží ako prvej príčine všetkého, ktorá prevyšuje všetky svoje účinky. Poznávame teda jeho vzťah k stvoreniam, totiž že je príčinou všetkého, aj odlišnosť stvorení od neho, totiž že on sám nie je ničím z toho, čo spôsobuje. Poznávame tiež, že sa mu tieto veci nepripisujú preto, že ich presahuje, a nie pre nedostatok.",
+          "K prvej námietke treba povedať, že rozum nemôže dospieť k jednoduchej forme tak, aby vedel, čím je. Môže však poznať, či jestvuje.",
+          "K druhej námietke treba povedať, že prirodzeným poznaním poznávame Boha prostredníctvom zmyslových predstáv jeho účinkov.",
+          "K tretej námietke treba povedať, že poznanie Boha v jeho esencii prináleží iba dobrým, keďže je z milosti. Poznanie Boha prirodzeným rozumom však môžu mať dobrí i zlí. Preto Augustín v diele Odvolania hovorí: „Neschvaľujem to, čo som povedal v modlitbe: Bože, ty si chcel, aby pravdu poznávali len čistí. Možno totiž namietnuť, že aj mnohí nečistí poznajú mnohé pravdy“, totiž prirodzeným rozumom."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q012-a13",
       "title": {
-        "la": "Quaestio 12 · Articulus 13"
+        "la": "Quaestio 12 · Articulus 13",
+        "sk": "13. článok · Či milosť dáva vyššie poznanie Boha než prirodzený rozum"
       },
       "text": {
         "la": [
@@ -2430,32 +2582,49 @@
           "Ad primum ergo dicendum quod, licet per revelationem gratiae in hac vita non cognoscamus de Deo quid est, et sic ei quasi ignoto coniungamur; tamen plenius ipsum cognoscimus, inquantum plures et excellentiores effectus eius nobis demonstrantur; et inquantum ei aliqua attribuimus ex revelatione divina, ad quae ratio naturalis non pertingit, ut Deum esse trinum et unum.",
           "Ad secundum dicendum quod ex phantasmatibus, vel a sensu acceptis secundum naturalem ordinem, vel divinitus in imaginatione formatis, tanto excellentior cognitio intellectualis habetur, quanto lumen intelligibile in homine fortius fuerit. Et sic per revelationem ex phantasmatibus plenior cognitio accipitur, ex infusione divini luminis.",
           "Ad tertium dicendum quod fides cognitio quaedam est, inquantum intellectus determinatur per fidem ad aliquod cognoscibile. Sed haec determinatio ad unum non procedit ex visione credentis, sed a visione eius cui creditur. Et sic, inquantum deest visio, deficit a ratione cognitionis quae est in scientia, nam scientia determinat intellectum ad unum per visionem et intellectum primorum principiorum."
+        ],
+        "sk": [
+          "Zdá sa, že milosťou nezískavame vyššie poznanie Boha než prirodzeným rozumom. Dionýz totiž v diele O mystickej teológii hovorí, že ten, kto je v tomto živote najdokonalejšie zjednotený s Bohom, je s ním zjednotený ako s úplne nepoznaným. To hovorí aj o Mojžišovi, ktorý dosiahol istý výnimočný stupeň poznania z milosti. Spojiť sa však s Bohom bez poznania toho, čím je, možno aj prirodzeným rozumom. Milosťou ho teda nepoznávame plnšie než prirodzeným rozumom.",
+          "Ďalej, prirodzeným rozumom môžeme dospieť k poznaniu Božích vecí len prostredníctvom zmyslových predstáv. To platí aj o poznaní z milosti. Dionýz totiž v prvej kapitole Nebeskej hierarchie hovorí, že Boží lúč nám môže svietiť, len ak je zahalený rozličnými posvätnými závojmi. Milosťou teda Boha nepoznávame plnšie než prirodzeným rozumom.",
+          "Ďalej, náš rozum sa milosťou viery pridŕža Boha. Zdá sa však, že viera nie je poznaním. Gregor totiž v Homíliách hovorí, že veci, ktoré sa nevidia, prijímame vierou a nemáme o nich poznanie. Milosť nám teda nedáva vznešenejšie poznanie Boha.",
+          "Proti tomu stoja slová apoštola v Prvom liste Korinťanom (2, 8–10): „Nám to Boh zjavil skrze svojho Ducha“, totiž to, čo nepoznal nik z vládcov tohto veku, čiže z filozofov, ako vykladá Glosa.",
+          "Odpovedám, že milosťou získavame dokonalejšie poznanie Boha než prirodzeným rozumom. Vidno to takto. Poznanie prirodzeným rozumom vyžaduje dve veci, zmyslové predstavy získané zo zmyslovo vnímateľných vecí a prirodzené svetlo rozumu, ktorého silou z nich získavame rozumové pojmy. Zjavenie z milosti pomáha ľudskému poznaniu v oboch. Prirodzené svetlo rozumu sa posilňuje vliatím svetla milosti. Niekedy Boh v ľudskej obrazotvornosti vytvára predstavy, ktoré vyjadrujú Božie veci lepšie než predstavy, ktoré získavame prirodzene zo zmyslov. Vidno to v prorockých videniach. Niekedy Boh utvára aj zmyslovo vnímateľné veci alebo hlas, aby vyjadril niečo Božie. Tak sa pri krste zjavil Duch Svätý v podobe holubice a zaznel Otcov hlas: „Toto je môj milovaný Syn.“",
+          "K prvej námietke treba povedať, že hoci ani zjavením z milosti v tomto živote nepoznávame, čím je Boh, a tak sa s ním spájame ako s nepoznaným, predsa ho poznávame plnšie. Ukazujú sa nám totiž početnejšie a vznešenejšie jeho účinky a z Božieho zjavenia mu pripisujeme niečo, k čomu prirodzený rozum nedosahuje, napríklad že Boh je trojjediný.",
+          "K druhej námietke treba povedať, že zo zmyslových predstáv, či ich prijímame zmyslami podľa prirodzeného poriadku, alebo ich Boh utvára v obrazotvornosti, získavame tým vyššie rozumové poznanie, čím je v človeku silnejšie svetlo rozumu. Pri zjavení teda zo zmyslových predstáv získavame plnšie poznanie vliatím Božieho svetla.",
+          "K tretej námietke treba povedať, že viera je istým poznaním, nakoľko sa ňou rozum prikláňa k určitému poznateľnému obsahu. Toto priklonenie však vychádza z videnia toho, komu sa verí, kým veriaci sám nemá takéto videnie. Pre chýbajúce videnie teda viera nemá povahu poznania, ktoré máme vo vede. Veda totiž vedie rozum k istému záveru videním a chápaním prvých princípov."
         ]
       },
       "group": "q012",
       "group_title": {
-        "la": "Quaestio 12"
+        "la": "Quaestio 12",
+        "sk": "Otázka 12 · Ako poznávame Boha"
       }
     },
     {
       "id": "q013",
       "title": {
-        "la": "Quaestio 13 · Prooemium"
+        "la": "Quaestio 13 · Prooemium",
+        "sk": "Otázka 13 · Úvod"
       },
       "text": {
         "la": [
           "Consideratis his quae ad divinam cognitionem pertinent, procedendum est ad considerationem divinorum nominum, unumquodque enim nominatur a nobis, secundum quod ipsum cognoscimus. Circa hoc ergo quaeruntur duodecim. Primo, utrum Deus sit nominabilis a nobis. Secundo, utrum aliqua nomina dicta de Deo, praedicentur de ipso substantialiter. Tertio, utrum aliqua nomina dicta de Deo, proprie dicantur de ipso; an omnia attribuantur ei metaphorice. Quarto, utrum multa nomina dicta de Deo, sint synonyma. Quinto, utrum nomina aliqua dicantur de Deo et creaturis univoce, vel aequivoce. Sexto, supposito quod dicantur analogice, utrum dicantur de Deo per prius, vel de creaturis. Septimo, utrum aliqua nomina dicantur de Deo ex tempore. Octavo, utrum hoc nomen Deus sit nomen naturae, vel operationis. Nono, utrum hoc nomen Deus sit nomen communicabile. Decimo, utrum accipiatur univoce vel aequivoce, secundum quod significat Deum per naturam, et per participationem, et secundum opinionem. Undecimo, utrum hoc nomen qui est sit maxime proprium nomen Dei. Duodecimo, utrum propositiones affirmativae possint formari de Deo."
+        ],
+        "sk": [
+          "Po úvahe o tom, čo sa týka poznania Boha, treba preskúmať Božie mená. Každú vec totiž pomenúvame podľa toho, ako ju poznávame. K tomu sa kladie dvanásť otázok. Po prvé, či môžeme Boha pomenovať. Po druhé, či niektoré mená vypovedané o Bohu označujú jeho substanciu. Po tretie, či sa niektoré mená vypovedajú o Bohu vo vlastnom zmysle, alebo sa mu všetky pripisujú obrazne. Po štvrté, či sú viaceré mená vypovedané o Bohu synonymá. Po piate, či sa niektoré mená vypovedajú o Bohu a stvoreniach jednoznačne alebo viacznačne. Po šieste, za predpokladu, že sa vypovedajú analogicky, či sa vypovedajú prvotne o Bohu alebo o stvoreniach. Po siedme, či sa niektoré mená začínajú o Bohu vypovedať až v čase. Po ôsme, či je meno „Boh“ pomenovaním prirodzenosti alebo pôsobenia. Po deviate, či možno meno „Boh“ preniesť aj na iných. Po desiate, či sa chápe jednoznačne alebo viacznačne, keď označuje Boha podľa prirodzenosti, účasti alebo mienky. Po jedenáste, či je „Ten, ktorý je“ najvlastnejšie Božie meno. Po dvanáste, či sa dajú o Bohu utvárať kladné výroky."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a01",
       "title": {
-        "la": "Quaestio 13 · Articulus 1"
+        "la": "Quaestio 13 · Articulus 1",
+        "sk": "1. článok · Či môžeme Boha pomenovať"
       },
       "text": {
         "la": [
@@ -2467,17 +2636,29 @@
           "Ad primum ergo dicendum quod ea ratione dicitur Deus non habere nomen, vel esse supra nominationem, quia essentia eius est supra id quod de Deo intelligimus et voce significamus.",
           "Ad secundum dicendum quod, quia ex creaturis in Dei cognitionem venimus, et ex ipsis eum nominamus, nomina quae Deo attribuimus, hoc modo significant, secundum quod competit creaturis materialibus, quarum cognitio est nobis connaturalis, ut supra dictum est. Et quia in huiusmodi creaturis, ea quae sunt perfecta et subsistentia sunt composita; forma autem in eis non est aliquid completum subsistens, sed magis quo aliquid est, inde est quod omnia nomina a nobis imposita ad significandum aliquid completum subsistens, significant in concretione, prout competit compositis; quae autem imponuntur ad significandas formas simplices, significant aliquid non ut subsistens, sed ut quo aliquid est, sicut albedo significat ut quo aliquid est album. Quia igitur et Deus simplex est, et subsistens est, attribuimus ei et nomina abstracta, ad significandam simplicitatem eius; et nomina concreta, ad significandum subsistentiam et perfectionem ipsius, quamvis utraque nomina deficiant a modo ipsius, sicut intellectus noster non cognoscit eum ut est, secundum hanc vitam.",
           "Ad tertium dicendum quod significare substantiam cum qualitate, est significare suppositum cum natura vel forma determinata in qua subsistit. Unde, sicut de Deo dicuntur aliqua in concretione, ad significandum subsistentiam et perfectionem ipsius, sicut iam dictum est, ita dicuntur de Deo nomina significantia substantiam cum qualitate. Verba vero et participia consignificantia tempus dicuntur de ipso, ex eo quod aeternitas includit omne tempus, sicut enim simplicia subsistentia non possumus apprehendere et significare nisi per modum compositorum, ita simplicem aeternitatem non possumus intelligere vel voce exprimere, nisi per modum temporalium rerum; et hoc propter connaturalitatem intellectus nostri ad res compositas et temporales. Pronomina vero demonstrativa dicuntur de Deo, secundum quod faciunt demonstrationem ad id quod intelligitur, non ad id quod sentitur, secundum enim quod a nobis intelligitur, secundum hoc sub demonstratione cadit. Et sic, secundum illum modum quo nomina et participia et pronomina demonstrativa de Deo dicuntur, secundum hoc et pronominibus relativis significari potest."
+        ],
+        "sk": [
+          "Zdá sa, že Bohu neprislúcha nijaké meno. Dionýz totiž v prvej kapitole diela O Božích menách hovorí, že Boh nemá meno a nemožno si o ňom utvoriť mienku. V Knihe prísloví (30, 4) sa hovorí: „Aké je jeho meno a aké je meno jeho syna, ak to vieš?“",
+          "Ďalej, každé meno sa vypovedá abstraktne alebo konkrétne. Konkrétne mená však Bohu neprislúchajú, lebo je jednoduchý. Neprislúchajú mu ani abstraktné, lebo neoznačujú niečo dokonalé, čo jestvuje samo osebe. O Bohu sa teda nedá vypovedať nijaké meno.",
+          "Ďalej, mená označujú substanciu spolu s kvalitou, slovesá a príčastia označujú aj čas a zámená označujú ukazovaním alebo vzťahom. Nič z toho Bohu neprislúcha, pretože je bez kvality, bez každého akcidentu a mimo času. Nemožno ho vnímať zmyslami, aby sa naňho dalo ukázať. Nemožno ho označiť ani vzťažným zámenom, pretože vzťažné zámená odkazujú na niečo už povedané, na mená, príčastia alebo ukazovacie zámená. Boha teda nijako nemôžeme pomenovať.",
+          "Proti tomu stoja slová Knihy Exodus (15, 3): „Pán je ako bojovník, Všemohúci je jeho meno.“",
+          "Odpovedám, že podľa Filozofa sú vyslovené slová znakmi rozumových pojmov a rozumové pojmy sú podobami vecí. Slová teda označujú veci prostredníctvom pojmu utvoreného rozumom. Nakoľko teda môžeme niečo poznať rozumom, natoľko to môžeme aj pomenovať. Vyššie sa však ukázalo, že v tomto živote Boha nemôžeme vidieť v jeho esencii. Poznávame ho zo stvorení ako ich princíp, tým, že uznávame jeho prevahu a vylučujeme z neho to, čo mu neprislúcha. Zo stvorení ho teda môžeme aj pomenovať, avšak meno, ktorým ho označujeme, nevyjadruje Božiu esenciu takú, aká je. Meno „človek“ svojím významom vyjadruje esenciu človeka takú, aká je, pretože označuje jeho definíciu, ktorá objasňuje jeho esenciu. Pojem označený menom je totiž definíciou.",
+          "K prvej námietke treba povedať, že o Bohu sa hovorí, že nemá meno alebo že je nad každým pomenovaním, pretože jeho esencia presahuje to, čo o ňom chápeme a označujeme slovami.",
+          "K druhej námietke treba povedať, že Boha poznávame zo stvorení a podľa nich ho aj pomenúvame. Mená, ktoré mu pripisujeme, označujú spôsobom primeraným látkovým stvoreniam, ktorých poznávanie je nám prirodzené, ako sa povedalo vyššie. V takýchto stvoreniach je to, čo je dokonalé a samostatne jestvuje, zložené. Forma v nich nie je úplný, samostatne jestvujúci celok. Je skôr tým, čím niečo je. Preto všetky mená, ktorými označujeme niečo úplné a samostatne jestvujúce, označujú konkrétne, čo zodpovedá zloženým veciam. Mená, ktorými označujeme jednoduché formy, označujú to, čím niečo je, bez toho, aby to predstavovali ako samostatne jestvujúce. Belosť napríklad označuje to, čím je niečo biele. Keďže Boh je jednoduchý a jestvuje sám osebe, pripisujeme mu abstraktné mená na označenie jeho jednoduchosti aj konkrétne mená na označenie jeho samostatného bytia a dokonalosti. Oba druhy mien pritom zaostávajú za spôsobom jeho bytia, tak ako ho náš rozum v tomto živote nepozná takého, aký je.",
+          "K tretej námietke treba povedať, že označovať substanciu spolu s kvalitou znamená označovať samostatného nositeľa spolu s určitou prirodzenosťou alebo formou, v ktorej jestvuje. Ako teda o Bohu niečo vypovedáme konkrétne, aby sme označili jeho samostatné bytie a dokonalosť, tak o ňom vypovedáme aj mená označujúce substanciu spolu s kvalitou. Slovesá a príčastia, ktoré označujú aj čas, sa o ňom vypovedajú preto, že večnosť zahŕňa každý čas. Ako totiž môžeme chápať a označovať jednoduché samostatne jestvujúce veci iba spôsobom zložených vecí, tak môžeme chápať a slovami vyjadrovať jednoduchú večnosť iba spôsobom časných vecí. Náš rozum sa totiž prirodzene zaoberá zloženými a časnými vecami. Ukazovacie zámená sa o Bohu používajú, pokiaľ ukazujú na to, čo rozum chápe. Pod takýmto označením ho uvádzame potiaľ, pokiaľ ho chápeme. Ako ho teda označujeme menami, príčastiami a ukazovacími zámenami, tak ho môžeme označovať aj vzťažnými zámenami."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a02",
       "title": {
-        "la": "Quaestio 13 · Articulus 2"
+        "la": "Quaestio 13 · Articulus 2",
+        "sk": "2. článok · Či niektoré Božie mená označujú jeho substanciu"
       },
       "text": {
         "la": [
@@ -2489,17 +2670,29 @@
           "Ad primum ergo dicendum quod Damascenus ideo dicit quod haec nomina non significant quid est Deus, quia a nullo istorum nominum exprimitur quid est Deus perfecte, sed unumquodque imperfecte eum significat, sicut et creaturae imperfecte eum repraesentant.",
           "Ad secundum dicendum quod in significatione nominum, aliud est quandoque a quo imponitur nomen ad significandum, et id ad quod significandum nomen imponitur, sicut hoc nomen lapis imponitur ab eo quod laedit pedem, non tamen imponitur ad hoc significandum quod significet laedens pedem, sed ad significandam quandam speciem corporum; alioquin omne laedens pedem esset lapis. Sic igitur dicendum est quod huiusmodi divina nomina imponuntur quidem a processibus deitatis, sicut enim secundum diversos processus perfectionum, creaturae Deum repraesentant, licet imperfecte; ita intellectus noster, secundum unumquemque processum, Deum cognoscit et nominat. Sed tamen haec nomina non imponit ad significandum ipsos processus, ut, cum dicitur Deus est vivens, sit sensus, ab eo procedit vita, sed ad significandum ipsum rerum principium, prout in eo praeexistit vita, licet eminentiori modo quam intelligatur vel significetur.",
           "Ad tertium dicendum quod essentiam Dei in hac vita cognoscere non possumus secundum quod in se est, sed cognoscimus eam secundum quod repraesentatur in perfectionibus creaturarum. Et sic nomina a nobis imposita eam significant."
+        ],
+        "sk": [
+          "Zdá sa, že nijaké meno sa o Bohu nevypovedá podľa substancie. Ján Damaský totiž hovorí, že každý výrok o Bohu musí ukazovať, čím nie je, alebo označovať nejaký vzťah či niečo, čo vyplýva z jeho prirodzenosti alebo pôsobenia. Výrok neoznačuje, čím Boh je podľa substancie.",
+          "Ďalej, Dionýz v prvej kapitole diela O Božích menách hovorí, že v každom chválospeve svätých teológov nájdeme Božie mená rozdelené podľa dobrých darov, ktoré vychádzajú z božstva. Mená ich zjavujú a oslavujú. To znamená, že mená, ktoré svätí učitelia používajú na Božiu chválu, sa rozlišujú podľa toho, čo z Boha vychádza. Čo však označuje to, čo z nejakej veci vychádza, neoznačuje nič z jej esencie. Mená vypovedané o Bohu sa teda o ňom nevypovedajú podľa substancie.",
+          "Ďalej, vec pomenúvame podľa toho, ako ju chápeme. V tomto živote však Boha nechápeme podľa jeho substancie. Ani nijaké meno, ktoré mu dávame, sa teda o ňom nevypovedá podľa jeho substancie.",
+          "Proti tomu stojí, čo hovorí Augustín v šiestej knihe O Trojici: „Pre Boha je byť to isté ako byť mocný alebo múdry“, a platí to o všetkom, čo o jeho jednoduchosti vypovieme a čím označujeme jeho substanciu. Všetky takéto mená teda označujú Božiu substanciu.",
+          "Odpovedám, že mená vypovedané o Bohu záporne alebo označujúce jeho vzťah k stvoreniu zjavne neoznačujú jeho substanciu. Označujú, že mu niečo neprislúcha, alebo že má vzťah k inému, či skôr že niečo má vzťah k nemu. O menách, ktoré sa o Bohu vypovedajú bez ďalšieho určenia a kladne, napríklad „dobrý“ či „múdry“, sú rozličné názory. Niektorí hovorili, že hoci sa takéto mená o Bohu vypovedajú kladne, zaviedli sa skôr preto, aby sa z Boha niečo vylúčilo, než aby sa mu niečo pripísalo. Keď teda hovoríme, že Boh je živý, podľa nich tým označujeme, že Boh nejestvuje tak ako neživé veci. Podobne treba chápať aj ostatné mená. Tak učil rabín Mojžiš. Iní hovoria, že tieto mená sa zaviedli na označenie Božieho vzťahu k stvoreným veciam. Keď povieme „Boh je dobrý“, má to podľa nich znamenať, že Boh je príčinou dobroty vo veciach. Podobne je to s ostatnými menami. Obe vysvetlenia sa však zdajú neprimerané z troch dôvodov. Po prvé, ani jedno z nich nevysvetľuje, prečo sa niektoré mená vypovedajú o Bohu viac než iné. Boh je totiž príčinou telies rovnako ako príčinou dobrých vecí. Keby teda výrok „Boh je dobrý“ znamenal iba, že Boh je príčinou dobrých vecí, podobne by sme mohli povedať „Boh je teleso“, lebo je príčinou telies. A slovami, že je teleso, sa tiež vylučuje, že by bol súcnom iba v možnosti, ako prvá látka. Po druhé, vyplývalo by z toho, že všetky mená vypovedané o Bohu sa o ňom vypovedajú druhotne. Podobne sa liek nazýva zdravým druhotne, čo znamená len, že je príčinou zdravia v živočíchovi, ktorý sa nazýva zdravým prvotne. Po tretie, tento výklad odporuje zámeru tých, ktorí o Bohu hovoria. Tí, čo Boha nazývajú živým, chcú povedať viac než to, že je príčinou nášho života alebo že sa líši od neživých telies. Treba teda povedať, že takéto mená označujú Božiu substanciu a vypovedajú sa o Bohu podľa substancie, avšak vystihujú ho nedokonale. Vidno to z toho, že Boha označujú podľa toho, ako ho poznáva náš rozum. Keďže ho náš rozum poznáva zo stvorení, poznáva ho natoľko, nakoľko ho stvorenia zobrazujú. Vyššie sa ukázalo, že Boh má v sebe vopred všetky dokonalosti stvorení, pretože je dokonalý bez výhrady a v každom ohľade. Každé stvorenie ho teda zobrazuje a je mu podobné natoľko, nakoľko má nejakú dokonalosť. Zobrazuje ho ako vynikajúci princíp, ktorého formu účinky nedosahujú, hoci nadobúdajú istú jeho podobnosť. Nie je to zobrazenie niečoho z toho istého druhu alebo rodu. Podobne formy nižších telies zobrazujú moc slnka. To sme už vyložili pri úvahe o Božej dokonalosti. Uvedené mená teda označujú Božiu substanciu, hoci nedokonale, tak ako ju nedokonale zobrazujú stvorenia. Výrok „Boh je dobrý“ preto znamená, že to, čo v stvoreniach nazývame dobrotou, je v Bohu vopred a vyšším spôsobom. Jeho význam sa nevyčerpáva tvrdením, že Boh spôsobuje dobrotu alebo že nie je zlý. Z toho teda nevyplýva, že Boh je dobrý vďaka tomu, že spôsobuje dobrotu. Práve preto, že je dobrý, šíri dobrotu do vecí, podľa slov Augustína v diele O kresťanskej náuke: „Sme, nakoľko je dobrý.“",
+          "K prvej námietke treba povedať, že Ján Damaský hovorí, že tieto mená neoznačujú, čím je Boh, lebo žiadne z nich dokonale nevyjadruje, čím je. Každé ho označuje nedokonale, tak ako ho nedokonale zobrazujú stvorenia.",
+          "K druhej námietke treba povedať, že pri význame mien je niekedy odlišné to, z čoho meno odvodzujeme, a to, čo ním označujeme. Tak sa latinské meno lapis, kameň, odvodzuje od toho, že zraňuje nohu. Bolo však zavedené na označenie určitého druhu telies, lebo inak by kameňom bolo všetko, čo zraňuje nohu. Podobne sa takéto Božie mená odvodzujú od toho, čo vychádza z božstva. Ako totiž stvorenia Boha nedokonale zobrazujú podľa rozličných dokonalostí, ktoré z neho vychádzajú, tak ho náš rozum podľa každej z nich poznáva a pomenúva. Tieto mená však nezavádza na označenie samého vychádzania, akoby výrok „Boh je živý“ znamenal, že z neho vychádza život. Zavádza ich na označenie samého princípu vecí, nakoľko je v ňom život vopred, hoci vznešenejším spôsobom, než chápeme alebo označujeme.",
+          "K tretej námietke treba povedať, že v tomto živote nemôžeme poznať Božiu esenciu takú, aká je sama v sebe. Poznávame ju podľa toho, ako je zobrazená v dokonalostiach stvorení. Tak ju označujú mená, ktoré dávame Bohu."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a03",
       "title": {
-        "la": "Quaestio 13 · Articulus 3"
+        "la": "Quaestio 13 · Articulus 3",
+        "sk": "3. článok · Či niektoré mená vypovedáme o Bohu vo vlastnom zmysle"
       },
       "text": {
         "la": [
@@ -2511,17 +2704,29 @@
           "Ad primum ergo dicendum quod quaedam nomina significant huiusmodi perfectiones a Deo procedentes in res creatas, hoc modo quod ipse modus imperfectus quo a creatura participatur divina perfectio, in ipso nominis significato includitur, sicut lapis significat aliquid materialiter ens, et huiusmodi nomina non possunt attribui Deo nisi metaphorice. Quaedam vero nomina significant ipsas perfectiones absolute, absque hoc quod aliquis modus participandi claudatur in eorum significatione, ut ens, bonum vivens, et huiusmodi, et talia proprie dicuntur de Deo.",
           "Ad secundum dicendum quod ideo huiusmodi nomina dicit Dionysius negari a Deo, quia id quod significatur per nomen, non convenit eo modo ei, quo nomen significat, sed excellentiori modo. Unde ibidem dicit Dionysius quod Deus est super omnem substantiam et vitam.",
           "Ad tertium dicendum quod ista nomina quae proprie dicuntur de Deo important conditiones corporales, non in ipso significato nominis, sed quantum ad modum significandi. Ea vero quae metaphorice de Deo dicuntur, important conditionem corporalem in ipso suo significato."
+        ],
+        "sk": [
+          "Zdá sa, že nijaké meno sa o Bohu nevypovedá vo vlastnom zmysle. Všetky mená, ktoré o ňom používame, sú podľa povedaného prevzaté zo stvorení. Mená stvorení sa však o Bohu vypovedajú obrazne, ako keď sa hovorí, že Boh je kameň, lev alebo niečo podobné. Všetky mená vypovedané o Bohu sa teda vypovedajú obrazne.",
+          "Ďalej, nijaké meno sa nevypovedá vo vlastnom zmysle o tom, komu sa pravdivejšie upiera, než pripisuje. Všetky mená ako „dobrý“, „múdry“ a podobné sa však Bohu pravdivejšie upierajú, než pripisujú, ako vidno u Dionýza v druhej kapitole Nebeskej hierarchie. Nijaké z týchto mien sa teda o Bohu nevypovedá vo vlastnom zmysle.",
+          "Ďalej, mená telies sa vypovedajú o Bohu len obrazne, pretože je netelesný. Všetky takéto mená však zahŕňajú isté vlastnosti telies. Keď niečo označujú, zahŕňajú čas, zloženosť a podobné veci, ktoré patria k telesám. Všetky sa teda o Bohu vypovedajú obrazne.",
+          "Proti tomu stojí, čo hovorí Ambróz v druhej knihe O viere: „Sú mená, ktoré zreteľne ukazujú, čo je vlastné božstvu, a mená, ktoré vyjadrujú jasnú pravdu Božej velebnosti. Iné sa o Bohu vypovedajú prenesene na základe podobnosti.“ Niektoré mená sa teda o Bohu vypovedajú vo vlastnom zmysle.",
+          "Odpovedám, že Boha podľa povedaného poznávame z dokonalostí, ktoré od neho prechádzajú k stvoreniam. Tieto dokonalosti sú v Bohu vznešenejším spôsobom než v stvoreniach. Náš rozum ich však chápe podľa toho, ako sú v stvoreniach, a označuje ich menami tak, ako ich chápe. Pri menách, ktoré pripisujeme Bohu, sa teda posudzujú dve veci, samy označované dokonalosti, napríklad dobrota alebo život, a spôsob označovania. Čo do toho, čo takéto mená označujú, prináležia Bohu vo vlastnom zmysle, ba vo vlastnejšom zmysle než samým stvoreniam, a vypovedajú sa o ňom prvotne. Ich spôsob označovania však zodpovedá stvoreniam. V tomto ohľade sa o Bohu nevypovedajú vo vlastnom zmysle.",
+          "K prvej námietke treba povedať, že niektoré mená označujú dokonalosti, ktoré prechádzajú od Boha do stvorených vecí, tak, že v samom význame mena je zahrnutý nedokonalý spôsob, akým má stvorenie účasť na Božej dokonalosti. Napríklad „kameň“ označuje niečo, čo má látkové bytie. Takéto mená možno Bohu pripisovať iba obrazne. Iné mená označujú samy dokonalosti bez ďalšieho určenia a bez toho, aby sa do ich významu zahrnul nejaký spôsob účasti. Také sú „súcno“, „dobrý“, „živý“ a podobné. Tie sa o Bohu vypovedajú vo vlastnom zmysle.",
+          "K druhej námietke treba povedať, že podľa Dionýza sa tieto mená o Bohu popierajú, lebo označené dokonalosti mu prináležia vznešenejším spôsobom, než ako ich mená označujú. Preto Dionýz na tom istom mieste hovorí, že Boh je nad každou substanciou a nad každým životom.",
+          "K tretej námietke treba povedať, že mená vypovedané o Bohu vo vlastnom zmysle zahŕňajú telesné určenia len vo svojom spôsobe označovania. Pri menách vypovedaných o Bohu obrazne sú telesné určenia obsiahnuté už v ich samom význame."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a04",
       "title": {
-        "la": "Quaestio 13 · Articulus 4"
+        "la": "Quaestio 13 · Articulus 4",
+        "sk": "4. článok · Či sú Božie mená synonymá"
       },
       "text": {
         "la": [
@@ -2533,17 +2738,29 @@
           "Et sic patet solutio ad primum, quia nomina synonyma dicuntur, quae significant unum secundum unam rationem. Quae enim significant rationes diversas unius rei, non primo et per se unum significant, quia nomen non significat rem, nisi mediante conceptione intellectus, ut dictum est.",
           "Ad secundum dicendum quod rationes plures horum nominum non sunt cassae et vanae, quia omnibus eis respondet unum quid simplex, per omnia huiusmodi multipliciter et imperfecte repraesentatum.",
           "Ad tertium dicendum quod hoc ipsum ad perfectam Dei unitatem pertinet, quod ea quae sunt multipliciter et divisim in aliis, in ipso sunt simpliciter et unite. Et ex hoc contingit quod est unus re et plures secundum rationem, quia intellectus noster ita multipliciter apprehendit eum, sicut res multipliciter ipsum repraesentant."
+        ],
+        "sk": [
+          "Zdá sa, že tieto mená vypovedané o Bohu sú synonymá. Synonymá sú totiž mená, ktoré označujú celkom to isté. Uvedené mená však v Bohu označujú celkom to isté, lebo Božia dobrota je jeho esenciou a tak je to aj s múdrosťou. Tieto mená sú teda úplnými synonymami.",
+          "Ak sa povie, že mená označujú tú istú vec podľa rozličných pojmov, stojí proti tomu toto. Pojem, ktorému nič nezodpovedá v skutočnosti, je prázdny. Ak je teda pojmov mnoho a vec je jedna, zdá sa, že tieto pojmy sú prázdne.",
+          "Ďalej, čo je jedno v skutočnosti aj podľa pojmu, je viac jedno než to, čo je jedno v skutočnosti a mnohé podľa pojmu. Boh je však jeden v najvyššej miere. Zdá sa teda, že nemôže byť jeden v skutočnosti a mnohý podľa pojmu. Mená vypovedané o Bohu teda neoznačujú rozličné pojmy, a tak sú synonymami.",
+          "Proti tomu stojí, že synonymá spojené navzájom vedú k prázdnemu opakovaniu, akoby sme povedali „šat odev“. Keby teda všetky mená vypovedané o Bohu boli synonymami, nedalo by sa primerane povedať „dobrý Boh“ alebo čosi podobné. U Jeremiáša (32, 18) je však napísané: „Najsilnejší, veľký a mocný, Pán zástupov je tvoje meno.“",
+          "Odpovedám, že takéto mená vypovedané o Bohu nie sú synonymá. Dalo by sa to ľahko vidieť, keby sme povedali, že sa zaviedli na vylúčenie niečoho alebo na označenie vzťahu príčiny k stvoreniam. Pojmy týchto mien by sa totiž líšili podľa toho, čo vylučujú alebo aké účinky označujú. Aj z toho, čo sme povedali, že totiž tieto mená označujú Božiu substanciu, hoci nedokonale, však jasne vyplýva, že majú rozličné pojmy. Pojem označený menom je totiž chápaním veci, ktorú meno označuje. Náš rozum poznáva Boha zo stvorení, a preto si na jeho poznanie utvára pojmy zodpovedajúce dokonalostiam, ktoré od Boha prechádzajú k stvoreniam. Tieto dokonalosti sú v Bohu vopred v jednote a jednoduchosti, kým stvorenia ich prijímajú oddelene a v mnohosti. Ako teda rozličným dokonalostiam stvorení zodpovedá jeden jednoduchý princíp, ktorý tieto dokonalosti zobrazujú mnohorako, tak rozličným a mnohým pojmom nášho rozumu zodpovedá niečo úplne jednoduché, čo podľa týchto pojmov chápeme nedokonale. Preto mená pripisované Bohu síce označujú jednu vec, ale označujú ju pod mnohými rozličnými pojmami, a teda nie sú synonymá.",
+          "Tým je zrejmé riešenie prvej námietky. Synonymá totiž označujú jednu vec pod jedným pojmom. Mená, ktoré označujú rozličné pojmy jednej veci, neoznačujú prvotne a samy osebe to isté, lebo meno označuje vec prostredníctvom pojmu rozumu, ako sa povedalo.",
+          "K druhej námietke treba povedať, že rozličné pojmy týchto mien nie sú zbytočné ani prázdne. Všetkým totiž zodpovedá niečo jedno a jednoduché, čo všetky tieto pojmy zobrazujú mnohorako a nedokonale.",
+          "K tretej námietke treba povedať, že k dokonalej Božej jednote patrí práve to, že čo je v iných veciach mnohoraké a oddelené, je v ňom jednoduché a jednotné. Preto je v skutočnosti jeden a podľa pojmov mnohý, lebo náš rozum ho chápe toľkými spôsobmi, koľkými ho veci zobrazujú."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a05",
       "title": {
-        "la": "Quaestio 13 · Articulus 5"
+        "la": "Quaestio 13 · Articulus 5",
+        "sk": "5. článok · Či mená o Bohu a stvoreniach používame jednoznačne"
       },
       "text": {
         "la": [
@@ -2557,17 +2774,31 @@
           "Ad secundum dicendum quod similitudo creaturae ad Deum est imperfecta, quia etiam nec idem secundum genus repraesentat, ut supra dictum est.",
           "Ad tertium dicendum quod Deus non est mensura proportionata mensuratis. Unde non oportet quod Deus et creaturae sub uno genere contineantur.",
           "Ea vero quae sunt in contrarium, concludunt quod non univoce huiusmodi nomina de Deo et creaturis praedicentur, non autem quod aequivoce."
+        ],
+        "sk": [
+          "Zdá sa, že to, čo sa vypovedá o Bohu a o stvoreniach, sa o nich vypovedá jednoznačne. Všetko viacznačné sa totiž dá odviesť k jednoznačnému tak, ako sa mnohé odvodzuje od jedného. Ak sa napríklad slovo „pes“ vypovedá viacznačne o štekajúcom a o morskom psovi, o niektorých sa musí vypovedať jednoznačne, totiž o všetkých štekajúcich psoch. Inak by sme postupovali do nekonečna. Nachádzame však pôsobiace príčiny, ktoré sa zhodujú so svojimi účinkami v mene aj v definícii, ako keď človek plodí človeka. Iné pôsobia viacznačne, ako keď slnko spôsobuje teplo, hoci samo sa môže nazývať teplým len v inom význame. Zdá sa teda, že prvá pôsobiaca príčina, ku ktorej sa odvodzujú všetky ostatné, pôsobí jednoznačne. To, čo sa vypovedá o Bohu a stvoreniach, sa teda vypovedá jednoznačne.",
+          "Ďalej, samotná viacznačnosť nezakladá nijakú podobnosť. Medzi stvorením a Bohom však istá podobnosť je, podľa slov Knihy Genezis (1, 26): „Urobme človeka na svoj obraz a podobu.“ Zdá sa teda, že niečo sa o Bohu aj o stvoreniach vypovedá jednoznačne.",
+          "Ďalej, miera je toho istého rodu ako to, čo meria, ako sa hovorí v desiatej knihe Metafyziky. Boh je však prvou mierou všetkých súcien, ako sa tam hovorí. Boh je teda toho istého rodu ako stvorenia. A tak sa niečo môže vypovedať jednoznačne o Bohu aj o stvoreniach.",
+          "Proti tomu stojí, že čo sa o viacerých veciach vypovedá tým istým menom a pod odlišným pojmom, vypovedá sa o nich viacznačne. Nijaké meno však Bohu neprislúcha pod tým istým pojmom, pod ktorým sa vypovedá o stvorení. Múdrosť v stvoreniach je totiž kvalitou, v Bohu ňou nie je. Zmena rodu však mení pojem, pretože rod je súčasťou definície. Podobne je to s ostatnými menami. Čokoľvek sa teda vypovedá o Bohu a stvoreniach, vypovedá sa viacznačne.",
+          "Ďalej, Boh je od stvorení vzdialenejší než ktorékoľvek stvorenia navzájom. Pre vzdialenosť niektorých stvorení sa však stáva, že sa o nich nedá nič vypovedať jednoznačne, ako pri veciach, ktoré sa nezhodujú v nijakom rode. Tým menej sa teda niečo vypovedá jednoznačne o Bohu a stvoreniach. Všetko sa o nich vypovedá viacznačne.",
+          "Odpovedám, že nič sa nemôže vypovedať o Bohu a stvoreniach jednoznačne. Každý účinok, ktorý sa nevyrovná moci pôsobiacej príčiny, prijíma jej podobu nedokonale a pod iným pojmom. Čo je teda v účinkoch oddelené a mnohoraké, je v príčine jednoduché a rovnakým spôsobom. Tak slnko jedinou silou vytvára v nižších veciach mnohoraké a rozličné formy. Podobne sú všetky dokonalosti vecí, ktoré sú v stvorených veciach oddelené a mnohoraké, v Bohu vopred v jednote, ako sa povedalo vyššie. Keď sa teda o stvorení vypovedá nejaké meno označujúce dokonalosť, označuje túto dokonalosť ako niečo, čo sa svojou definíciou líši od ostatného. Keď napríklad o človeku hovoríme, že je múdry, označujeme dokonalosť odlišnú od jeho esencie, schopnosti, bytia a od všetkých podobných vecí. Keď však toto meno vypovedáme o Bohu, nemienime označiť niečo odlišné od jeho esencie, moci alebo bytia. A tak meno „múdry“ vypovedané o človeku istým spôsobom ohraničuje a obsiahne označenú vec. Keď sa vypovedá o Bohu, označená vec zostáva neobsiahnutá a presahuje význam mena. Je teda zrejmé, že meno „múdry“ sa o Bohu a o človeku nevypovedá pod tým istým pojmom. Podobne je to pri ostatných menách. Nijaké meno sa preto nevypovedá jednoznačne o Bohu a stvoreniach. Nevypovedá sa však ani čisto viacznačne, ako niektorí učili. V takom prípade by sa zo stvorení o Bohu nedalo nič poznať ani dokázať, pretože by sme vždy upadli do omylu z dvojznačnosti. To odporuje filozofom, ktorí o Bohu mnohé dokazujú, aj apoštolovi, ktorý v Liste Rimanom (1, 20) hovorí, že Božie neviditeľné vlastnosti sa dávajú vidieť rozumom prostredníctvom toho, čo bolo stvorené. Takéto mená sa teda vypovedajú o Bohu a o stvoreniach analogicky, čiže podľa vzťahu. Pri menách to nastáva dvojako. Buď sa viac vecí vzťahuje k jednej, ako keď sa „zdravé“ vypovedá o lieku a o moči, pretože oboje má vzťah k zdraviu živočícha. Moč je jeho znakom a liek jeho príčinou. Alebo sa jedna vec vzťahuje k druhej, ako keď sa „zdravé“ vypovedá o lieku a o živočíchovi, pretože liek je príčinou zdravia, ktoré je v živočíchovi. Takto sa niektoré mená o Bohu a o stvoreniach vypovedajú analogicky. Boha totiž môžeme pomenovať len zo stvorení, ako sa povedalo vyššie. Všetko, čo sa vypovedá o Bohu a o stvoreniach, sa teda vypovedá podľa istého vzťahu stvorenia k Bohu ako k princípu a príčine, v ktorej sú vopred vznešenejším spôsobom všetky dokonalosti vecí. Takýto spôsob spoločného pomenovania je medzi čírou viacznačnosťou a prostou jednoznačnosťou. To, čo sa vypovedá analogicky, nemá jeden pojem ako pri jednoznačnosti, ani celkom odlišné pojmy ako pri viacznačnosti. Meno vypovedané viacerými spôsobmi označuje rozličné vzťahy k tomu istému. Tak „zdravý“ vypovedané o moči znamená znak zdravia živočícha, kým vypovedané o lieku znamená príčinu toho istého zdravia.",
+          "K prvej námietke treba povedať, že hoci pri vypovedaní sa viacznačné musí odvodzovať od jednoznačného, pri pôsobení musí príčina, ktorá nepôsobí jednoznačne, predchádzať príčinu pôsobiacu jednoznačne. Prvá je totiž všeobecnou príčinou celého druhu, ako keď je slnko príčinou vzniku všetkých ľudí. Príčina pôsobiaca jednoznačne však nie je všeobecnou pôsobiacou príčinou celého druhu, lebo inak by bola príčinou seba samej, keďže do tohto druhu patrí. Je príčinou konkrétnej jednotliviny, ktorej dáva účasť na druhu. Všeobecná príčina celého druhu teda nepôsobí jednoznačne. Všeobecná príčina však predchádza jednotlivú. Hoci teda všeobecná príčina nepôsobí jednoznačne, nie je ani čisto viacznačná, lebo vtedy by nespôsobovala nič sebe podobné. Možno ju nazvať analogicky pôsobiacou príčinou. Podobne pri vypovedaní sa všetky jednoznačné výrazy odvodzujú od jedného prvého, ktoré je analogické, totiž od súcna.",
+          "K druhej námietke treba povedať, že podobnosť stvorenia Bohu je nedokonalá, lebo nezobrazuje ani to isté podľa rodu, ako sa povedalo vyššie.",
+          "K tretej námietke treba povedať, že Boh nie je mierou, ktorá je primeraná meranému. Boh a stvorenia teda nemusia patriť do jedného rodu.",
+          "Argumenty uvedené na opačnej strane dokazujú, že takéto mená sa o Bohu a o stvoreniach nevypovedajú jednoznačne. Nedokazujú, že sa vypovedajú viacznačne."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a06",
       "title": {
-        "la": "Quaestio 13 · Articulus 6"
+        "la": "Quaestio 13 · Articulus 6",
+        "sk": "6. článok · Či sa mená vypovedajú prvotne o Bohu alebo o stvoreniach"
       },
       "text": {
         "la": [
@@ -2579,17 +2810,29 @@
           "Ad primum ergo dicendum quod obiectio illa procedit quantum ad impositionem nominis.",
           "Ad secundum dicendum quod non est eadem ratio de nominibus quae metaphorice de Deo dicuntur, et de aliis, ut dictum est.",
           "Ad tertium dicendum quod obiectio illa procederet, si huiusmodi nomina solum de Deo causaliter dicerentur et non essentialiter, sicut sanum de medicina."
+        ],
+        "sk": [
+          "Zdá sa, že mená sa vypovedajú prvotne o stvoreniach a potom o Bohu. Vec totiž pomenúvame podľa toho, ako ju poznávame, lebo podľa Filozofa sú mená znakmi rozumových pojmov. Stvorenie však poznávame skôr než Boha. Mená, ktoré zavádzame, teda prvotne prináležia stvoreniam a potom Bohu.",
+          "Ďalej, podľa Dionýza v diele O Božích menách pomenúvame Boha zo stvorení. Mená prenesené zo stvorení na Boha, ako „lev“, „kameň“ a podobné, sa však prvotne vypovedajú o stvoreniach. Teda všetky mená vypovedané o Bohu i o stvoreniach sa vypovedajú prvotne o stvoreniach.",
+          "Ďalej, všetky mená, ktoré sa spoločne vypovedajú o Bohu a stvoreniach, sa podľa Dionýza o Bohu vypovedajú ako o príčine všetkého. Čo sa však o niečom vypovedá preto, že je príčinou, vypovedá sa o tom druhotne. Zdravým sa totiž prvotne nazýva živočích a až potom liek, ktorý je príčinou zdravia. Takéto mená sa teda vypovedajú prvotne o stvoreniach.",
+          "Proti tomu stoja slová Listu Efezanom (3, 14–15): „Zohýnam kolená pred Otcom nášho Pána Ježiša, od ktorého má meno každé otcovstvo na nebi i na zemi.“ Ten istý dôvod zrejme platí pre ostatné mená vypovedané o Bohu a o stvoreniach. Takéto mená sa teda vypovedajú prvotne o Bohu.",
+          "Odpovedám, že všetky mená, ktoré sa analogicky vypovedajú o viacerých veciach, sa musia vypovedať vo vzťahu k jednej z nich. Tá musí byť obsiahnutá v definícii všetkých ostatných. Keďže pojem označený menom je podľa štvrtej knihy Metafyziky definíciou, meno sa musí vypovedať prvotne o tom, čo vstupuje do definície ostatných, a druhotne o ostatných podľa toho, ako blízko majú k prvému. Tak „zdravý“, vypovedané o živočíchovi, patrí do definície „zdravého“ vypovedaného o lieku, ktorý sa volá zdravým, nakoľko spôsobuje zdravie živočícha. Patrí aj do definície „zdravého“ vypovedaného o moči, ktorý sa volá zdravým, nakoľko je znakom zdravia živočícha. Všetky mená, ktoré sa o Bohu vypovedajú obrazne, sa teda vypovedajú prvotne o stvoreniach. Keď sa vypovedajú o Bohu, označujú len podobnosti s takýmito stvoreniami. Keď sa napríklad hovorí, že lúka sa usmieva, znamená to len, že rozkvitnutá lúka sa svojím pôvabom podobá človeku, ktorý sa usmieva. Podobnosť spočíva v pomere. Tak aj meno „lev“ vypovedané o Bohu znamená iba, že Boh koná vo svojich dielach mocne tak, ako lev vo svojich. Význam týchto mien, pokiaľ sa vypovedajú o Bohu, teda nemožno určiť inak než pomocou toho, čo sa vypovedá o stvoreniach. Pri ostatných menách, ktoré sa o Bohu nevypovedajú obrazne, by platilo to isté, keby sa o ňom vypovedali iba ako o príčine, ako niektorí učili. Výrok „Boh je dobrý“ by totiž znamenal iba, že Boh je príčinou dobroty stvorenia, a tak by pojem „dobrý“ vypovedaný o Bohu zahŕňal dobrotu stvorenia. „Dobrý“ by sa preto vypovedalo prvotne o stvorení. Vyššie sa však ukázalo, že takéto mená sa vypovedajú o Bohu aj podľa jeho esencie. Keď totiž hovoríme, že Boh je dobrý alebo múdry, tým označujeme, že je príčinou múdrosti alebo dobroty a že oboje je v ňom vopred vznešenejším spôsobom. Vzhľadom na označenú vec sa teda takéto mená vypovedajú prvotne o Bohu, lebo tieto dokonalosti plynú od Boha do stvorení. Vzhľadom na zavedenie mien ich však najprv dávame stvoreniam, lebo tie poznávame skôr. Preto majú spôsob označovania, ktorý zodpovedá stvoreniam, ako sa povedalo vyššie.",
+          "K prvej námietke treba povedať, že uvedený dôvod platí vzhľadom na zavedenie mena.",
+          "K druhej námietke treba povedať, že pri menách, ktoré sa o Bohu vypovedajú obrazne, platí iný dôvod než pri ostatných, ako sa povedalo.",
+          "K tretej námietke treba povedať, že uvedený dôvod by platil, keby sa takéto mená vypovedali o Bohu iba ako o príčine a nikdy podľa esencie, tak ako „zdravý“ o lieku."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a07",
       "title": {
-        "la": "Quaestio 13 · Articulus 7"
+        "la": "Quaestio 13 · Articulus 7",
+        "sk": "7. článok · Či sa niektoré mená začínajú o Bohu vypovedať až v čase"
       },
       "text": {
         "la": [
@@ -2607,17 +2850,35 @@
           "Ad quartum dicendum quod relationes significatae per huiusmodi nomina quae dicuntur de Deo ex tempore, sunt in Deo secundum rationem tantum, oppositae autem relationes in creaturis sunt secundum rem. Nec est inconveniens quod a relationibus realiter existentibus in re, Deus denominetur, tamen secundum quod cointelliguntur per intellectum nostrum oppositae relationes in Deo. Ut sic Deus dicatur relative ad creaturam, quia creatura refertur ad ipsum, sicut philosophus dicit, in V Metaphys., quod scibile dicitur relative, quia scientia refertur ad ipsum.",
           "Ad quintum dicendum quod, cum ea ratione referatur Deus ad creaturam, qua creatura refertur ad ipsum; cum relatio subiectionis realiter sit in creatura, sequitur quod Deus non secundum rationem tantum, sed realiter sit dominus. Eo enim modo dicitur dominus, quo creatura ei subiecta est.",
           "Ad sextum dicendum quod, ad cognoscendum utrum relativa sint simul natura vel non, non oportet considerare ordinem rerum de quibus relativa dicuntur, sed significationes ipsorum relativorum. Si enim unum in sui intellectu claudat aliud et e converso, tunc sunt simul natura, sicut duplum et dimidium, pater et filius, et similia. Si autem unum in sui intellectu claudat aliud, et non e converso, tunc non sunt simul natura. Et hoc modo se habent scientia et scibile. Nam scibile dicitur secundum potentiam, scientia autem secundum habitum, vel secundum actum. Unde scibile, secundum modum suae significationis, praeexistit scientiae. Sed si accipiatur scibile secundum actum, tunc est simul cum scientia secundum actum, nam scitum non est aliquid nisi sit eius scientia. Licet igitur Deus sit prior creaturis, quia tamen in significatione domini clauditur quod habeat servum, et e converso, ista duo relativa, dominus et servus, sunt simul natura. Unde Deus non fuit dominus, antequam haberet creaturam sibi subiectam."
+        ],
+        "sk": [
+          "Zdá sa, že mená vyjadrujúce vzťah k stvoreniam sa nezačínajú o Bohu vypovedať až v čase. Všetky takéto mená totiž podľa všeobecného názoru označujú Božiu substanciu. Ambróz preto hovorí, že „Pán“ je menom moci, ktorá je Božou substanciou, a „Stvoriteľ“ označuje Božiu činnosť, ktorá je jeho esenciou. Božia substancia je však večná. Takéto mená sa teda o Bohu vypovedajú od večnosti.",
+          "Ďalej, o každom, komu niečo začne prináležať v čase, možno povedať, že sa takým stal. Čo je totiž biele až od istého času, stáva sa bielym. Bohu však neprislúcha, aby sa niečím stal. O Bohu sa teda nič nezačína vypovedať v čase.",
+          "Ďalej, ak sa niektoré mená začínajú o Bohu vypovedať v čase preto, že vyjadrujú vzťah k stvoreniam, zdá sa, že rovnaký dôvod platí pre všetky mená vyjadrujúce takýto vzťah. Niektoré sa však o Bohu vypovedajú od večnosti. Od večnosti totiž stvorenie poznal a miloval, podľa slov Jeremiáša (31, 3): „Miloval som ťa večnou láskou.“ Teda aj ostatné mená vyjadrujúce vzťah k stvoreniam, ako „Pán“ a „Stvoriteľ“, sa o Bohu vypovedajú od večnosti.",
+          "Ďalej, takéto mená označujú vzťah. Tento vzťah teda musí byť niečím v Bohu alebo iba v stvorení. Nemôže však byť iba v stvorení, lebo potom by sa Boh nazýval Pánom podľa opačného vzťahu, ktorý je v stvoreniach, a nič sa nepomenúva podľa svojho opaku. Tento vzťah teda musí byť niečím aj v Bohu. Nič v Bohu však nemôže začať v čase, lebo on je nad časom. Zdá sa teda, že takéto mená sa o Bohu nezačínajú vypovedať v čase.",
+          "Ďalej, vzťažné meno sa vypovedá podľa vzťahu, napríklad „pán“ podľa panstva, tak ako „biely“ podľa belosti. Keby teda vzťah panstva nebol v Bohu skutočne, ale iba podľa rozumu, vyplývalo by z toho, že Boh nie je skutočne Pánom. To je zjavne nepravdivé.",
+          "Ďalej, pri vzťažných veciach, ktoré nie sú súčasné podľa prirodzenosti, jedno môže byť bez druhého. Poznateľné napríklad jestvuje, aj keď nejestvuje jeho poznanie, ako sa hovorí v Kategóriách. Vzťažné výrazy vypovedané o Bohu a o stvoreniach však neoznačujú veci súčasné podľa prirodzenosti. O Bohu sa teda môže niečo vypovedať vzhľadom na stvorenie, aj keď stvorenie nejestvuje. Takéto mená, napríklad „Pán“ a „Stvoriteľ“, sa teda o Bohu vypovedajú od večnosti.",
+          "Proti tomu stojí, čo hovorí Augustín v piatej knihe O Trojici, že vzťažné pomenovanie „Pán“ patrí Bohu až od istého času.",
+          "Odpovedám, že niektoré mená vyjadrujúce vzťah k stvoreniu sa začínajú vypovedať o Bohu až v čase. Na objasnenie treba vedieť, že niektorí pokladali vzťah iba za výtvor rozumu. To je však zjavne nepravdivé, pretože aj samy veci majú navzájom prirodzený poriadok a vzťahy. Keďže vzťah vyžaduje dva členy, jeho skutočnosť alebo závislosť od rozumu sa môže prejaviť trojako. Niekedy existuje na oboch stranách iba podľa rozumu. Je to vtedy, keď poriadok alebo vzťah medzi niečím môže jestvovať iba podľa chápania rozumu, napríklad keď hovoríme, že to isté je totožné samo so sebou. Keď rozum uchopí jednu vec dvakrát, postaví ju ako dve, a tak v nej chápe istý vzťah k sebe samej. Podobne je to pri všetkých vzťahoch medzi súcnom a nesúcnom. Tie utvára rozum tým, že chápe nesúcno ako jeden člen vzťahu. Rovnako je to pri vzťahoch, ktoré nasledujú po činnosti rozumu, ako rod a druh. Iné vzťahy sú skutočné v prirodzenosti oboch členov, totiž keď medzi nimi existuje vzťah podľa niečoho, čo skutočne prináleží obom. Vidno to pri vzťahoch vyplývajúcich z kvantity, ako veľké a malé, dvojnásobok a polovica. Kvantita je totiž v oboch členoch. Podobné sú vzťahy vyplývajúce z konania a jeho prijímania, ako hýbateľ a to, čím hýbe, otec a syn, a podobne. Niekedy je vzťah skutočný v prirodzenosti jedného člena a v druhom existuje iba podľa rozumu. To nastáva, keď oba členy nie sú toho istého poriadku. Tak sa zmysel a poznanie vzťahujú na zmyslovo vnímateľné a poznateľné. Tieto predmety však ako veci jestvujúce v prirodzenom bytí stoja mimo poriadku, v ktorom sú predmetmi zmyslov a rozumu. V poznaní a zmysle je teda skutočný vzťah, nakoľko smerujú k poznaniu alebo vnímaniu vecí. Samy veci uvažované osebe však stoja mimo tohto poriadku. Niet teda v nich skutočného vzťahu k poznaniu a zmyslu. Je v nich len podľa rozumu, nakoľko ich rozum chápe ako predmety, na ktoré sa poznanie a zmysel vzťahujú. Preto Filozof v piatej knihe Metafyziky hovorí, že sa pomenúvajú vzťažne preto, že iné sa vzťahuje na ne. Podobne sa o stĺpe hovorí, že je napravo, len keď je po pravej strane živočícha. Takýto vzťah je skutočne v živočíchovi. Boh stojí mimo celého poriadku stvorenia a všetky stvorenia smerujú k nemu. Stvorenia teda majú k Bohu skutočný vzťah. V Bohu je vzťah k nim len podľa rozumu, lebo sa vzťahujú naňho. Preto možno takéto mená vyjadrujúce vzťah k stvoreniu začať o Bohu vypovedať v čase. Dôvodom je zmena stvorenia. Stĺp sa podobne ocitne po pravej strane živočícha tým, že sa premiestni živočích, hoci stĺp sa nijako nezmení.",
+          "K prvej námietke treba povedať, že niektoré vzťažné výrazy boli zavedené na označenie samých vzťahov, ako „pán“, „sluha“, „otec“ a „syn“. Nazývajú sa vzťažnými podľa bytia. Iné boli zavedené na označenie vecí, z ktorých vyplývajú isté vzťahy. Také sú „hýbateľ“, „pohybované“, „hlava“ a „to, čo má hlavu“. Tie sa nazývajú vzťažnými podľa spôsobu vypovedania. Tento rozdiel treba zachovať aj pri Božích menách. Niektoré označujú sám vzťah k stvoreniu, ako „Pán“. Božiu substanciu označujú nepriamo, nakoľko ju predpokladajú, tak ako panstvo predpokladá moc, ktorou je Božia substancia. Iné označujú priamo Božiu esenciu a vzťah vyjadrujú ako dôsledok. Tak „Spasiteľ“, „Stvoriteľ“ a podobné označujú Božie konanie, ktorým je jeho esencia. Oba druhy mien sa však začínajú o Bohu vypovedať v čase vzhľadom na vzťah, ktorý označujú priamo alebo ako dôsledok. Pokiaľ priamo alebo nepriamo označujú Božiu esenciu, čas sa na ne nevzťahuje.",
+          "K druhej námietke treba povedať, že vzťahy, ktoré sa začínajú o Bohu vypovedať v čase, sú v Bohu iba podľa rozumu. Podobne sa o Bohu hovorí, že sa niečím stáva alebo stal, iba podľa rozumu. Sám Boh sa pritom nijako nemení, ako keď sa hovorí: „Pane, stal si sa nám útočiskom.“",
+          "K tretej námietke treba povedať, že činnosť rozumu a vôle je v tom, kto koná. Preto sa mená označujúce vzťah vyplývajúci z činnosti rozumu či vôle vypovedajú o Bohu od večnosti. Mená ako „Spasiteľ“ alebo „Stvoriteľ“, ktoré vyplývajú z činností smerujúcich podľa nášho chápania k vonkajším účinkom, sa o ňom začínajú vypovedať v čase.",
+          "K štvrtej námietke treba povedať, že vzťahy označené menami, ktoré sa začínajú vypovedať o Bohu v čase, sú v Bohu iba podľa rozumu. Opačné vzťahy sú v stvoreniach skutočné. Je teda primerané, že Boh sa pomenúva podľa vzťahov skutočne jestvujúcich vo veciach, keď náš rozum zároveň chápe v Bohu opačné vzťahy. O Bohu sa teda hovorí vo vzťahu k stvoreniu preto, že sa stvorenie vzťahuje naňho. Podobne Filozof v piatej knihe Metafyziky hovorí, že poznateľné sa nazýva vzťažne preto, že sa naň vzťahuje poznanie.",
+          "K piatej námietke treba povedať, že Boh sa vzťahuje na stvorenie tým, že stvorenie sa vzťahuje naňho. Keďže vzťah podriadenosti je v stvorení skutočný, vyplýva z toho, že Boh je skutočne Pánom. Nazýva sa totiž Pánom potiaľ, pokiaľ mu stvorenie podlieha.",
+          "K šiestej námietke treba povedať, že ak chceme vedieť, či sú vzťažné výrazy súčasné podľa prirodzenosti, treba skúmať význam samých výrazov. Poradie vecí, o ktorých sa vypovedajú, tu nerozhoduje. Ak pojem jedného zahŕňa druhý a naopak, sú súčasné podľa prirodzenosti, ako dvojnásobok a polovica, otec a syn a podobne. Ak pojem jedného zahŕňa druhý, ale opačne to neplatí, nie sú súčasné podľa prirodzenosti. Tak sa má poznanie k poznateľnému. Poznateľné sa totiž vypovedá podľa možnosti, kým poznanie podľa trvalej dispozície alebo uskutočnenia. Poznateľné preto svojím významom predchádza poznanie. Ak sa však poznateľné berie podľa uskutočnenia, je súčasné s uskutočneným poznaním, lebo niečo je poznané len vtedy, keď o tom jestvuje poznanie. Hoci teda Boh predchádza stvorenia, označenia „pán“ a „sluha“ sú súčasné podľa prirodzenosti. Význam pána totiž zahŕňa, že má sluhu, a naopak. Boh teda nebol Pánom skôr, než mal stvorenie, ktoré mu podlieha."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a08",
       "title": {
-        "la": "Quaestio 13 · Articulus 8"
+        "la": "Quaestio 13 · Articulus 8",
+        "sk": "8. článok · Či meno „Boh“ označuje prirodzenosť alebo pôsobenie"
       },
       "text": {
         "la": [
@@ -2627,17 +2888,27 @@
           "Respondeo dicendum quod non est semper idem id a quo imponitur nomen ad significandum, et id ad quod significandum nomen imponitur. Sicut enim substantiam rei ex proprietatibus vel operationibus eius cognoscimus, ita substantiam rei denominamus quandoque ab aliqua eius operatione vel proprietate, sicut substantiam lapidis denominamus ab aliqua actione eius, quia laedit pedem; non tamen hoc nomen impositum est ad significandum hanc actionem, sed substantiam lapidis. Si qua vero sunt quae secundum se sunt nota nobis, ut calor, frigus, albedo, et huiusmodi, non ab aliis denominantur. Unde in talibus idem est quod nomen significat, et id a quo imponitur nomen ad significandum. Quia igitur Deus non est notus nobis in sui natura, sed innotescit nobis ex operationibus vel effectibus eius, ex his possumus eum nominare, ut supra dictum est. Unde hoc nomen Deus est nomen operationis, quantum ad id a quo imponitur ad significandum. Imponitur enim hoc nomen ab universali rerum providentia, omnes enim loquentes de Deo, hoc intendunt nominare Deum, quod habet providentiam universalem de rebus. Unde dicit Dionysius, XII cap. de Div. Nom., quod deitas est quae omnia videt providentia et bonitate perfecta. Ex hac autem operatione hoc nomen Deus assumptum, impositum est ad significandum divinam naturam.",
           "Ad primum ergo dicendum quod omnia quae posuit Damascenus, pertinent ad providentiam, a qua imponitur hoc nomen Deus ad significandum.",
           "Ad secundum dicendum quod, secundum quod naturam alicuius rei ex eius proprietatibus et effectibus cognoscere possumus, sic eam nomine possumus significare. Unde, quia substantiam lapidis ex eius proprietate possumus cognoscere secundum seipsam, sciendo quid est lapis, hoc nomen lapis ipsam lapidis naturam, secundum quod in se est, significat, significat enim definitionem lapidis, per quam scimus quid est lapis. Ratio enim quam significat nomen, est definitio, ut dicitur in IV Metaphys. Sed ex effectibus divinis divinam naturam non possumus cognoscere secundum quod in se est, ut sciamus de ea quid est; sed per modum eminentiae et causalitatis et negationis, ut supra dictum est. Et sic hoc nomen Deus significat naturam divinam. Impositum est enim nomen hoc ad aliquid significandum supra omnia existens, quod est principium omnium, et remotum ab omnibus. Hoc enim intendunt significare nominantes Deum."
+        ],
+        "sk": [
+          "Zdá sa, že meno „Boh“ nie je menom prirodzenosti. Ján Damaský totiž v prvej knihe hovorí, že grécke pomenovanie Boha sa odvodzuje od theein, čiže bežať a všetko udržiavať, alebo od aithein, čiže horieť, lebo náš Boh je oheň, ktorý stravuje všetku zlobu, alebo od theasthai, čiže všetko pozorovať. To všetko patrí k pôsobeniu. Meno „Boh“ teda označuje pôsobenie, nie prirodzenosť.",
+          "Ďalej, niečo pomenúvame podľa toho, ako to poznávame. Božia prirodzenosť je však pre nás nepoznaná. Meno „Boh“ teda neoznačuje Božiu prirodzenosť.",
+          "Proti tomu stojí, čo hovorí Ambróz v prvej knihe O viere, že „Boh“ je menom prirodzenosti.",
+          "Odpovedám, že to, z čoho meno odvodzujeme, nie je vždy totožné s tým, na čo sa meno zavádza. Ako totiž substanciu veci poznávame z jej vlastností alebo činností, tak ju niekedy pomenúvame podľa niektorej jej činnosti alebo vlastnosti. Napríklad substanciu kameňa pomenúvame v latinčine podľa jeho účinku, že zraňuje nohu. Meno sa však zaviedlo na označenie substancie kameňa. Niektoré veci poznáme samy osebe, napríklad teplo, chlad či belosť. Tie nepomenúvame podľa niečoho iného. V ich prípade sa preto označený význam zhoduje s tým, od čoho sa meno odvodzuje. Keďže Boha nepoznáme v jeho prirodzenosti a stáva sa nám známym z jeho činností a účinkov, môžeme ho podľa nich aj pomenovať, ako sa povedalo vyššie. Meno „Boh“ je teda menom pôsobenia, pokiaľ ide o to, z čoho bolo odvodené. Odvodzuje sa totiž zo všeobecnej prozreteľnosti nad vecami. Všetci, ktorí hovoria o Bohu, ním totiž chcú pomenovať toho, kto má všeobecnú prozreteľnosť nad vecami. Preto Dionýz v dvanástej kapitole diela O Božích menách hovorí, že božstvo všetko vidí dokonalou prozreteľnosťou a dobrotou. Meno „Boh“ odvodené z tohto pôsobenia sa zaviedlo na označenie Božej prirodzenosti.",
+          "K prvej námietke treba povedať, že všetko, čo uviedol Damaský, patrí k prozreteľnosti, od ktorej sa odvodzuje meno „Boh“.",
+          "K druhej námietke treba povedať, že prirodzenosť veci môžeme označiť menom natoľko, nakoľko ju môžeme poznať z jej vlastností a účinkov. Substanciu kameňa môžeme z jeho vlastností poznať samu osebe, takže vieme, čo je kameň. Meno „kameň“ teda označuje jeho prirodzenosť takú, aká je sama v sebe. Označuje totiž definíciu kameňa, ktorou poznávame, čo je kameň. Pojem označený menom je totiž definíciou, ako sa hovorí vo štvrtej knihe Metafyziky. Z Božích účinkov však Božiu prirodzenosť nemôžeme poznať takú, aká je sama v sebe, aby sme vedeli, čím je. Poznávame ju tak, že uznávame jej prevahu, poznávame ju ako príčinu a vylučujeme z nej to, čo jej neprislúcha, ako sa povedalo vyššie. Takto meno „Boh“ označuje Božiu prirodzenosť. Bolo zavedené na označenie toho, kto jestvuje nad všetkým, je princípom všetkého a od všetkého sa odlišuje. Práve to chcú označiť tí, ktorí pomenúvajú Boha."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a09",
       "title": {
-        "la": "Quaestio 13 · Articulus 9"
+        "la": "Quaestio 13 · Articulus 9",
+        "sk": "9. článok · Či možno meno „Boh“ preniesť aj na iných"
       },
       "text": {
         "la": [
@@ -2649,17 +2920,29 @@
           "Ad primum ergo dicendum quod natura divina non est communicabilis nisi secundum similitudinis participationem.",
           "Ad secundum dicendum quod hoc nomen Deus est nomen appellativum, et non proprium, quia significat naturam divinam ut in habente; licet ipse Deus, secundum rem, non sit nec universalis nec particularis. Nomina enim non sequuntur modum essendi qui est in rebus, sed modum essendi secundum quod in cognitione nostra est. Et tamen, secundum rei veritatem, est incommunicabile, secundum quod dictum est de hoc nomine sol.",
           "Ad tertium dicendum quod haec nomina bonus, sapiens, et similia, imposita quidem sunt a perfectionibus procedentibus a Deo in creaturas, non tamen sunt imposita ad significandum divinam naturam, sed ad significandum ipsas perfectiones absolute. Et ideo etiam secundum rei veritatem sunt communicabilia multis. Sed hoc nomen Deus impositum est ab operatione propria Deo, quam experimur continue, ad significandum divinam naturam."
+        ],
+        "sk": [
+          "Zdá sa, že meno „Boh“ možno preniesť aj na iných. S každým, s kým sa zdieľa vec označená menom, sa totiž zdieľa aj samo meno. Ako sa však povedalo, meno „Boh“ označuje Božiu prirodzenosť, na ktorej môžu mať účasť aj iní, podľa slov Druhého Petrovho listu (1, 4): „Daroval nám veľké a vzácne prisľúbenia, aby sme sa nimi stali účastníkmi Božej prirodzenosti.“ Meno „Boh“ možno teda preniesť aj na iných.",
+          "Ďalej, iba vlastné mená nemožno prenášať. „Boh“ však nie je vlastné meno, ale všeobecné pomenovanie. Vidno to z jeho množného čísla podľa slov žalmu: „Povedal som: Ste bohovia“ (Ž 81, 6 podľa Vulgáty). Meno „Boh“ možno teda preniesť aj na iných.",
+          "Ďalej, meno „Boh“ sa odvodzuje od pôsobenia, ako sa povedalo. Iné mená, ktoré sa Bohu dávajú podľa pôsobení alebo účinkov, napríklad „dobrý“ a „múdry“, možno preniesť aj na iných. To teda platí aj o mene „Boh“.",
+          "Proti tomu stoja slová Knihy múdrosti (14, 21): „Neprenosné meno dali drevu a kameňom.“ Hovorí sa tam o mene božstva. Meno „Boh“ je teda neprenosné.",
+          "Odpovedám, že meno možno preniesť dvojakým spôsobom, vo vlastnom zmysle alebo podľa podobnosti. Vo vlastnom zmysle je meno prenosné na viacerých, ak sa na nich môže vzťahovať celý jeho význam. Podľa podobnosti je prenosné, ak sa na nich môže vzťahovať niečo z toho, čo je zahrnuté v jeho význame. Meno „lev“ patrí vo vlastnom zmysle všetkým tým, v ktorých je prirodzenosť označená týmto menom. Podľa podobnosti ho možno preniesť aj na tých, ktorí majú niečo levie, napríklad smelosť alebo silu, a tak sa obrazne nazývajú levmi. Aby sme vedeli, ktoré mená sú prenosné vo vlastnom zmysle, treba uvážiť, že každá forma jestvujúca v jednotlivom nositeľovi, ktorým sa stáva jednotlivou, je spoločná viacerým buď skutočne, alebo aspoň podľa pojmu. Ľudská prirodzenosť je napríklad spoločná viacerým skutočne aj podľa pojmu. Prirodzenosť slnka je spoločná viacerým iba podľa pojmu, lebo ju možno chápať ako jestvujúcu vo viacerých nositeľoch. Rozum totiž chápe prirodzenosť každého druhu tak, že odhliada od jednotliviny. To, či jestvuje v jednom alebo vo viacerých jednotlivých nositeľoch, je mimo pojmu druhovej prirodzenosti. Pri zachovaní jej pojmu ju preto možno chápať ako jestvujúcu vo viacerých. Jednotlivina je však ako jednotlivina oddelená od všetkých ostatných. Meno zavedené na označenie jednotlivej veci je preto neprenosné v skutočnosti aj podľa pojmu. Ani v mysli totiž nemôže byť viac exemplárov tej istej jednotliviny. Nijaké meno označujúce jednotlivinu teda nemožno vo vlastnom zmysle preniesť na viacerých, iba podľa podobnosti. Niekoho možno napríklad obrazne nazvať Achillom, pretože má niektorú Achillovu vlastnosť, totiž silu. Keby sme formy, ktoré sa stávajú jednotlivými samy sebou, pretože sú samostatne jestvujúcimi formami, chápali také, aké sú samy v sebe, nedali by sa zdieľať ani skutočne, ani podľa pojmu. Azda len podľa podobnosti, ako sa povedalo o jednotlivinách. Jednoduché samostatne jestvujúce formy však nemôžeme chápať také, aké sú. Chápeme ich na spôsob zložených vecí, ktoré majú formy v látke. Ako sa povedalo, dávame im preto konkrétne mená označujúce prirodzenosť v nejakom nositeľovi. Čo do povahy pomenovania teda platí to isté o menách, ktoré dávame prirodzenostiam zložených vecí, aj o menách, ktoré dávame jednoduchým, samostatne jestvujúcim prirodzenostiam. Keďže meno „Boh“ bolo zavedené na označenie Božej prirodzenosti, ktorú nemožno rozmnožiť, ako sa ukázalo vyššie, v skutočnosti je toto meno neprenosné. Podľa mienky je však prenosné, tak ako by bolo „slnko“ prenosné podľa mienky tých, ktorí predpokladajú viacero sĺnk. V tomto zmysle sa v Liste Galaťanom (4, 8) hovorí: „Slúžili ste tým, čo od prirodzenosti nie sú bohmi.“ Podľa Glosy sú bohmi iba v mienke ľudí. Meno „Boh“ sa dá preniesť podľa istej podobnosti, pokiaľ ide o niečo z jeho významu. Tak sa bohmi nazývajú tí, ktorí majú podľa podobnosti účasť na niečom Božom, podľa slov žalmu: „Povedal som: Ste bohovia.“ Keby sa však nejaké meno zaviedlo na označenie Boha ako konkrétneho nositeľa, keď sa naňho hľadí ako na toto jednotlivé súcno, bolo by neprenosné vo všetkých ohľadoch. Také je azda štvorpísmenové Božie meno u Hebrejov. Bolo by to podobné, ako keby niekto dal slnku meno označujúce túto jednotlivinu.",
+          "K prvej námietke treba povedať, že Božia prirodzenosť sa môže zdieľať iba účasťou na podobnosti.",
+          "K druhej námietke treba povedať, že „Boh“ je všeobecné pomenovanie, pretože označuje Božiu prirodzenosť v tom, kto ju má. Sám Boh pritom v skutočnosti nie je ani všeobecný, ani jednotlivý v tomto zmysle. Mená totiž zodpovedajú spôsobu bytia podľa toho, ako ho máme v poznaní. Podľa skutočnosti je však meno „Boh“ neprenosné, ako sa povedalo o mene „slnko“.",
+          "K tretej námietke treba povedať, že mená „dobrý“, „múdry“ a podobné sa odvodzujú od dokonalostí, ktoré od Boha prichádzajú do stvorení. Zaviedli sa však na označenie samých dokonalostí bez ďalšieho určenia. Aj podľa skutočnosti ich preto možno preniesť na viacerých. Meno „Boh“ bolo odvodené od pôsobenia vlastného Bohu, ktoré neprestajne zakúšame, a zavedené na označenie Božej prirodzenosti."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a10",
       "title": {
-        "la": "Quaestio 13 · Articulus 10"
+        "la": "Quaestio 13 · Articulus 10",
+        "sk": "10. článok · Či má meno „Boh“ ten istý význam podľa prirodzenosti, účasti a mienky"
       },
       "text": {
         "la": [
@@ -2673,17 +2956,31 @@
           "Et similiter dicendum ad secundum et tertium. Nam illae rationes procedunt secundum diversitatem praedicationis nominis, et non secundum diversam significationem.",
           "Ad quartum dicendum quod animal dictum de animali vero et de picto, non dicitur pure aequivoce; sed philosophus largo modo accipit aequivoca, secundum quod includunt in se analoga. Quia et ens, quod analogice dicitur, aliquando dicitur aequivoce praedicari de diversis praedicamentis.",
           "Ad quintum dicendum quod ipsam naturam Dei prout in se est, neque Catholicus neque Paganus cognoscit, sed uterque cognoscit eam secundum aliquam rationem causalitatis vel excellentiae vel remotionis, ut supra dictum est. Et secundum hoc, in eadem significatione accipere potest gentilis hoc nomen Deus, cum dicit idolum est Deus, in qua accipit ipsum Catholicus dicens idolum non est Deus. Si vero aliquis esset qui secundum nullam rationem Deum cognosceret, nec ipsum nominaret, nisi forte sicut proferimus nomina quorum significationem ignoramus."
+        ],
+        "sk": [
+          "Zdá sa, že meno „Boh“ sa vypovedá jednoznačne o Bohu podľa prirodzenosti, účasti a mienky. Tvrdenie a popretie si totiž neprotirečia, ak majú slová odlišný význam. Viacznačnosť bráni protirečeniu. Katolík však výrokom „Modla nie je Boh“ protirečí pohanovi, ktorý hovorí „Modla je Boh“. Meno „Boh“ sa teda v oboch prípadoch vypovedá jednoznačne.",
+          "Ďalej, tak ako sa modla nazýva Bohom podľa mienky a nie podľa pravdy, tak sa pôžitok z telesných rozkoší pokladá za blaženosť podľa mienky a nie podľa pravdy. Meno „blaženosť“ sa však vypovedá jednoznačne o zdanlivej blaženosti i o pravej blaženosti. Aj meno „Boh“ sa teda vypovedá jednoznačne o pravom Bohu aj o tom, kto je bohom podľa mienky.",
+          "Ďalej, jednoznačné sú výrazy, ktorých pojem je jeden. Keď katolík hovorí, že je jeden Boh, rozumie menom „Boh“ niekoho všemohúceho a hodného úcty nad všetko. To isté chápe pohan, keď hovorí, že modla je Boh. Meno „Boh“ sa teda v oboch prípadoch vypovedá jednoznačne.",
+          "Proti tomu stojí, že to, čo je v rozume, je podobou toho, čo je v skutočnosti, ako sa hovorí v prvej knihe O vyjadrovaní. „Živočích“ sa však vypovedá viacznačne o skutočnom živočíchovi a o namaľovanom živočíchovi. Meno „Boh“ sa teda vypovedá viacznačne o pravom Bohu a o tom, kto je bohom podľa mienky.",
+          "Ďalej, nik nemôže označiť to, čo nepozná. Pohan však nepozná Božiu prirodzenosť. Keď teda hovorí „Modla je Boh“, neoznačuje pravé božstvo. To však označuje katolík, keď hovorí, že je jeden Boh. Meno „Boh“ sa teda vypovedá viacznačne o pravom Bohu a o tom, kto je bohom podľa mienky.",
+          "Odpovedám, že v troch uvedených významoch sa meno „Boh“ berie analogicky. Vidno to z toho, že jednoznačné výrazy majú celkom ten istý pojem a viacznačné celkom odlišné pojmy. Pri analogickom pomenovaní musí byť meno v jednom z jeho významov zahrnuté v definícii toho istého mena v ostatných významoch. Napríklad „súcno“ vypovedané o substancii sa uvádza v definícii súcna, keď sa vypovedá o akcidente. A „zdravý“ vypovedané o živočíchovi sa uvádza v definícii „zdravého“, keď sa vypovedá o moči alebo o lieku. Moč je totiž znakom zdravia živočícha a liek ho spôsobuje. Tak je to aj tu. Meno „Boh“, pokiaľ označuje pravého Boha, vstupuje do pojmu toho, kto sa nazýva bohom podľa mienky alebo podľa účasti. Keď totiž niekoho nazývame bohom podľa účasti, rozumieme tým niekoho, kto má podobnosť s pravým Bohom. Podobne keď modlu nazývame bohom, rozumieme tým niečo, o čom si ľudia myslia, že je to Boh. Je teda zrejmé, že meno má v týchto prípadoch rôzny význam a jeden z týchto významov je zahrnutý v ostatných. Preto sa vypovedá analogicky.",
+          "K prvej námietke treba povedať, že mnohoznačnosť mena sa posudzuje podľa jeho významu. Samotné vypovedanie ju nezakladá. Napríklad meno „človek“, či sa o niekom vypovedá pravdivo alebo nepravdivo, sa používa v jednom význame. Používalo by sa mnohoznačne vtedy, keby sme ním chceli označovať rôzne veci. Napríklad keby ním jeden chcel označovať skutočného človeka a druhý kameň alebo niečo iné. Je preto zrejmé, že katolík, ktorý popiera, že modla je Boh, protirečí pohanovi, ktorý to tvrdí, lebo obaja používajú meno „Boh“ na označenie pravého Boha. Keď pohan hovorí, že modla je Boh, nepoužíva meno v zmysle boha podľa mienky. V tom prípade by totiž hovoril pravdu. Veď aj katolíci niekedy v takomto význame toto meno používajú, napríklad vo výroku: „Všetci bohovia národov sú démoni.“",
+          "Podobne treba odpovedať na druhú aj tretiu námietku. Ich dôvody vychádzajú z rozdielu v tom, o čom sa meno vypovedá. Samotný význam mena pritom berú ako rovnaký.",
+          "K štvrtej námietke treba povedať, že výraz „živočích“ vypovedaný o skutočnom a namaľovanom živočíchovi sa nevypovedá čisto viacznačne. Filozof však berie viacznačnosť v širšom zmysle, ktorý zahŕňa aj analogické výrazy. Aj o súcne, ktoré sa vypovedá analogicky, sa niekedy hovorí, že sa o rozličných kategóriách vypovedá viacznačne.",
+          "K piatej námietke treba povedať, že samu Božiu prirodzenosť takú, aká je sama v sebe, nepozná katolík ani pohan. Obaja ju však istým spôsobom poznávajú z príčinnosti, prevahy alebo vylúčenia toho, čo Bohu neprislúcha, ako sa povedalo. Preto pohan vo výroku „Modla je Boh“ môže brať meno „Boh“ v tom istom význame ako katolík vo výroku „Modla nie je Boh“. Kto by Boha nepoznal v nijakom ohľade, ani by ho nepomenúval, iba azda tak, ako vyslovujeme mená, ktorých význam nepoznáme."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a11",
       "title": {
-        "la": "Quaestio 13 · Articulus 11"
+        "la": "Quaestio 13 · Articulus 11",
+        "sk": "11. článok · Či je „Ten, ktorý je“ najvlastnejšie Božie meno"
       },
       "text": {
         "la": [
@@ -2695,17 +2992,29 @@
           "Ad primum ergo dicendum quod hoc nomen qui est est magis proprium nomen Dei quam hoc nomen Deus, quantum ad id a quo imponitur, scilicet ab esse, et quantum ad modum significandi et consignificandi, ut dictum est. Sed quantum ad id ad quod imponitur nomen ad significandum, est magis proprium hoc nomen Deus, quod imponitur ad significandum naturam divinam. Et adhuc magis proprium nomen est tetragrammaton, quod est impositum ad significandam ipsam Dei substantiam incommunicabilem, et, ut sic liceat loqui, singularem.",
           "Ad secundum dicendum quod hoc nomen bonum est principale nomen Dei inquantum est causa, non tamen simpliciter, nam esse absolute praeintelligitur causae.",
           "Ad tertium dicendum quod non est necessarium quod omnia nomina divina importent habitudinem ad creaturas; sed sufficit quod imponantur ab aliquibus perfectionibus procedentibus a Deo in creaturas. Inter quas prima est ipsum esse, a qua sumitur hoc nomen qui est."
+        ],
+        "sk": [
+          "Zdá sa, že „Ten, ktorý je“ nie je najvlastnejšie Božie meno. Meno „Boh“ je totiž neprenosné, ako sa povedalo. „Ten, ktorý je“ však nie je neprenosné meno. Nie je teda najvlastnejším Božím menom.",
+          "Ďalej, Dionýz v tretej kapitole diela O Božích menách hovorí, že meno „dobré“ ukazuje všetko, čo vychádza z Boha. Práve Bohu však najviac prináleží byť všeobecným princípom vecí. Jeho najvlastnejším menom je teda „Dobro“, a nie „Ten, ktorý je“.",
+          "Ďalej, zdá sa, že každé Božie meno vyjadruje vzťah k stvoreniam, keďže Boha poznávame len prostredníctvom stvorení. Meno „Ten, ktorý je“ však nevyjadruje nijaký vzťah k stvoreniam. Nie je teda najvlastnejším Božím menom.",
+          "Proti tomu stojí, čo sa hovorí v Knihe Exodus (3, 13–14). Mojžiš sa opýtal: „Ak mi povedia: Aké je jeho meno? Čo im poviem?“ Pán mu odpovedal: „Takto im povieš: Ten, ktorý je, ma poslal k vám.“ Meno „Ten, ktorý je“ je teda najvlastnejším Božím menom.",
+          "Odpovedám, že „Ten, ktorý je“ je najvlastnejšie Božie meno z troch dôvodov. Po prvé pre svoj význam. Označuje samo bytie bez určenia nejakej formy. Keďže Božie bytie je jeho samou esenciou a ničomu inému to neprislúcha, ako sa ukázalo vyššie, je zrejmé, že toto meno zo všetkých najvlastnejšie pomenúva Boha. Každá vec sa totiž pomenúva podľa svojej formy. Po druhé pre svoju všeobecnosť. Ostatné mená sú buď menej všeobecné, alebo, aj keď majú rovnaký rozsah, predsa k nemu podľa pojmu niečo pridávajú, a tak ho istým spôsobom formujú a určujú. Počas pozemského putovania však náš rozum nedokáže poznať samu Božiu esenciu takú, aká je sama v sebe. Čokoľvek určitým spôsobom chápe o Bohu, zaostáva za spôsobom, akým je Boh sám v sebe. Preto čím sú mená menej určité, všeobecnejšie a bez ďalšieho určenia, tým vlastnejšie ich vypovedáme o Bohu. Preto aj Ján Damaský hovorí, že na prvom mieste medzi všetkými Božími menami je „Ten, ktorý je“. Boh totiž v sebe obsiahne všetko a má samo bytie ako akési nekonečné a neurčité more substancie. Každé iné meno určuje nejaký spôsob substancie veci. Meno „Ten, ktorý je“ neurčuje nijaký spôsob bytia a vzťahuje sa bez určenia na všetky. Preto pomenúva samé nekonečné more substancie. Po tretie pre to, čo označuje zároveň. Označuje totiž bytie v prítomnosti. To sa najvlastnejšie vypovedá o Bohu, ktorého bytie nepozná minulosť ani budúcnosť, ako hovorí Augustín v piatej knihe O Trojici.",
+          "K prvej námietke treba povedať, že „Ten, ktorý je“ je vlastnejšie Božie meno než „Boh“ vzhľadom na to, z čoho sa odvodzuje, totiž z bytia, i vzhľadom na spôsob, akým označuje a akým zároveň vyjadruje prítomnosť. Vzhľadom na to, na čo bolo meno zavedené, je však vlastnejšie „Boh“, pretože bolo zavedené na označenie Božej prirodzenosti. Ešte vlastnejšie je štvorpísmenové meno, ktoré bolo zavedené na označenie samej neprenosnej a, ak to tak smieme povedať, jednotlivej Božej substancie.",
+          "K druhej námietke treba povedať, že „Dobro“ je hlavným Božím menom, pokiaľ je Boh príčinou. Bez výhrady to však neplatí, lebo bytie bez ďalšieho určenia chápeme skôr než príčinu.",
+          "K tretej námietke treba povedať, že všetky Božie mená nemusia vyjadrovať vzťah k stvoreniam. Stačí, že sa odvodzujú od niektorých dokonalostí, ktoré od Boha prechádzajú k stvoreniam. Prvou z nich je samo bytie, od ktorého sa odvodzuje meno „Ten, ktorý je“."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
       "id": "q013-a12",
       "title": {
-        "la": "Quaestio 13 · Articulus 12"
+        "la": "Quaestio 13 · Articulus 12",
+        "sk": "12. článok · Či sa dajú o Bohu utvárať pravdivé kladné výroky"
       },
       "text": {
         "la": [
@@ -2717,11 +3026,22 @@
           "Ad primum ergo dicendum quod Dionysius dicit affirmationes de Deo esse incompactas, vel inconvenientes secundum aliam translationem, inquantum nullum nomen Deo competit secundum modum significandi, ut supra dictum est.",
           "Ad secundum dicendum quod intellectus noster non potest formas simplices subsistentes secundum quod in seipsis sunt, apprehendere, sed apprehendit eas secundum modum compositorum, in quibus est aliquid quod subiicitur, et est aliquid quod inest. Et ideo apprehendit formam simplicem in ratione subiecti, et attribuit ei aliquid.",
           "Ad tertium dicendum quod haec propositio, intellectus intelligens rem aliter quam sit, est falsus, est duplex, ex eo quod hoc adverbium aliter potest determinare hoc verbum intelligit ex parte intellecti, vel ex parte intelligentis. Si ex parte intellecti, sic propositio vera est, et est sensus, quicumque intellectus intelligit rem esse aliter quam sit, falsus est. Sed hoc non habet locum in proposito, quia intellectus noster, formans propositionem de Deo, non dicit eum esse compositum, sed simplicem. Si vero ex parte intelligentis, sic propositio falsa est. Alius est enim modus intellectus in intelligendo, quam rei in essendo. Manifestum est enim quod intellectus noster res materiales infra se existentes intelligit immaterialiter; non quod intelligat eas esse immateriales, sed habet modum immaterialem in intelligendo. Et similiter, cum intelligit simplicia quae sunt supra se, intelligit ea secundum modum suum, scilicet composite, non tamen ita quod intelligat ea esse composita. Et sic intellectus noster non est falsus, formans compositionem de Deo."
+        ],
+        "sk": [
+          "Zdá sa, že o Bohu sa nedajú utvárať kladné výroky. Dionýz totiž v druhej kapitole Nebeskej hierarchie hovorí, že záporné výroky o Bohu sú pravdivé, kým kladné sú neprimerané.",
+          "Ďalej, Boethius v diele O Trojici hovorí, že jednoduchá forma nemôže byť subjektom. Boh je však v najvyššej miere jednoduchá forma, ako sa ukázalo vyššie. Nemôže teda byť subjektom. Všetko, o čom sa utvára kladný výrok, sa však berie ako subjekt. O Bohu sa teda nedá utvoriť kladný výrok.",
+          "Ďalej, každý rozum, ktorý chápe vec inak, než aká je, sa mýli. Boh však má bytie bez akejkoľvek zloženosti, ako sa dokázalo vyššie. Keďže pri každom kladnom výroku rozum chápe vec rozumovým skladaním, zdá sa, že o Bohu nemožno utvoriť pravdivý kladný výrok.",
+          "Proti tomu stojí, že predmetom viery nemôže byť nepravda. Predmetom viery sú však aj kladné výroky, napríklad že Boh je trojjediný a že je všemohúci. O Bohu sa teda dajú utvárať pravdivé kladné výroky.",
+          "Odpovedám, že o Bohu sa dajú utvárať pravdivé kladné výroky. Na objasnenie treba vedieť, že v každom pravdivom kladnom výroku musia predikát a subjekt označovať v určitom ohľade to isté v skutočnosti a čosi odlišné podľa pojmu. Vidno to pri výrokoch s akcidentálnym aj substanciálnym predikátom. Je zrejmé napríklad, že „človek“ a „biely“ označujú ten istý subjekt a líšia sa pojmovo, lebo pojem človeka je odlišný od pojmu bieleho. Tak je to aj pri výroku „Človek je živočích“. To isté, čo je človekom, je skutočne živočíchom. V tom istom nositeľovi je totiž zmyslová prirodzenosť, podľa ktorej sa nazýva živočíchom, i rozumová prirodzenosť, podľa ktorej sa nazýva človekom. Aj tu teda predikát a subjekt označujú toho istého nositeľa a líšia sa pojmovo. Istým spôsobom sa to nachádza aj vo výrokoch, v ktorých sa to isté vypovedá o sebe samom. Rozum berie to, čo kladie na stranu subjektu, z hľadiska nositeľa. To, čo kladie na stranu predikátu, berie z hľadiska prirodzenosti formy jestvujúcej v nositeľovi. Preto sa hovorí, že predikáty sa berú formálne a subjekty materiálne. Tomuto pojmovému rozdielu zodpovedá rozlíšenie predikátu a subjektu. Ich spojením rozum označuje, že skutočnosť je tá istá. Boh sám v sebe je dokonale jeden a jednoduchý. Náš rozum ho však poznáva podľa rozličných pojmov, pretože ho nemôže vidieť takého, aký je sám v sebe. Hoci ho chápe pod rozličnými pojmami, poznáva, že všetkým týmto pojmom zodpovedá jedna a tá istá jednoduchá skutočnosť. Pojmovú mnohosť teda rozum vyjadruje rozlíšením predikátu a subjektu a jednotu vyjadruje ich spojením.",
+          "K prvej námietke treba povedať, že Dionýz nazýva kladné výroky o Bohu nesúdržnými alebo podľa iného prekladu neprimeranými preto, že Bohu nijaké meno nezodpovedá svojím spôsobom označovania, ako sa povedalo vyššie.",
+          "K druhej námietke treba povedať, že náš rozum nechápe jednoduché samostatne jestvujúce formy také, aké sú samy v sebe. Chápe ich na spôsob zložených vecí, v ktorých je niečo ako subjekt a niečo je v ňom. Preto jednoduchú formu chápe pod pojmom subjektu a niečo jej pripisuje.",
+          "K tretej námietke treba povedať, že výrok „Rozum, ktorý chápe vec inak, než aká je, sa mýli“ možno chápať dvojako. Príslovka „inak“ môže určovať sloveso „chápe“ zo strany chápanej veci alebo zo strany chápajúceho. Zo strany chápanej veci je výrok pravdivý. Znamená, že každý rozum, ktorý chápe, že vec je iná, než je, sa mýli. To však tu neplatí, lebo náš rozum pri utváraní výroku o Bohu tvrdí, že Boh je jednoduchý. Zo strany chápajúceho je výrok nepravdivý. Spôsob, akým rozum chápe, sa totiž líši od spôsobu, akým vec jestvuje. Je zrejmé, že náš rozum chápe látkové veci, ktoré sú pod ním, nelátkovým spôsobom. Tým netvrdí, že tieto veci sú nelátkové. Sám ich chápe nelátkovo. Podobne keď chápe jednoduché veci, ktoré sú nad ním, chápe ich svojím spôsobom, totiž skladaním, pričom ich nemusí pokladať za zložené. Náš rozum sa teda pri utváraní zloženého výroku o Bohu nemýli."
         ]
       },
       "group": "q013",
       "group_title": {
-        "la": "Quaestio 13"
+        "la": "Quaestio 13",
+        "sk": "Otázka 13 · O Božích menách"
       }
     },
     {
