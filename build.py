@@ -17,7 +17,7 @@ from reportlab.platypus import KeepTogether, PageBreak, Paragraph, SimpleDocTemp
 
 ROOT = Path(__file__).resolve().parent
 DOCS = ROOT / "docs"
-LANGUAGES = {"sk": "Slovenčina", "cs": "Čeština", "la": "Latina"}
+LANGUAGES = {"sk": "Slovenčina", "cs": "Čeština", "la": "Latinčina"}
 CONTENTS = {"sk": "Obsah", "cs": "Obsah", "la": "Index"}
 TIMESTAMP = "2026-11-19T00:00:00Z"
 
