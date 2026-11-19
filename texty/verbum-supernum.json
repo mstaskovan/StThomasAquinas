@@ -1,0 +1,76 @@
+{
+  "id": "verbum-supernum",
+  "author": {
+    "la": "Thomas de Aquino (opus attributum)",
+    "cs": "Tomáš Akvinský (připisováno)",
+    "sk": "Tomáš Akvinský (pripisované)"
+  },
+  "title": {
+    "la": "Verbum supernum prodiens",
+    "cs": "Slovo vycházející z výsosti",
+    "sk": "Slovo vychádzajúce z výsosti"
+  },
+  "edition": {
+    "la": "Hymnus de Corpore Christi · textus Latinus",
+    "cs": "Eucharistický hymnus · nový pracovní překlad z latiny",
+    "sk": "Eucharistický hymnus · nový pracovný preklad z latinčiny"
+  },
+  "source": "https://www.corpusthomisticum.org/pcx.html",
+  "related": "https://www.cormierop.cz/Bez-hracek.html",
+  "sections": [
+    {
+      "id": "s1",
+      "title": {"la": "Stropha I", "cs": "Sloka 1", "sk": "Strofa 1"},
+      "text": {
+        "la": ["Verbum supernum prodiens", "nec Patris linquens dexteram,", "ad opus suum exiens", "venit ad vitae vesperam."],
+        "cs": ["Slovo vycházející z výsosti,", "aniž opustilo Otcovu pravici,", "vydalo se vykonat své dílo", "a dospělo k večeru života."],
+        "sk": ["Slovo vychádzajúce z výsosti,", "ktoré neopustilo Otcovu pravicu,", "vyšlo vykonať svoje dielo", "a dospelo k večeru života."]
+      }
+    },
+    {
+      "id": "s2",
+      "title": {"la": "Stropha II", "cs": "Sloka 2", "sk": "Strofa 2"},
+      "text": {
+        "la": ["In mortem a discipulo", "suis tradendus aemulis", "prius in vitae ferculo", "se tradidit discipulis."],
+        "cs": ["Než je učedník vydal", "jeho protivníkům na smrt,", "v pokrmu života se samo", "vydalo svým učedníkům."],
+        "sk": ["Prv než ho učeník vydal", "jeho protivníkom na smrť,", "v pokrme života sa samo", "vydalo svojim učeníkom."]
+      }
+    },
+    {
+      "id": "s3",
+      "title": {"la": "Stropha III", "cs": "Sloka 3", "sk": "Strofa 3"},
+      "text": {
+        "la": ["Quibus sub bina specie", "carnem dedit et sanguinem,", "ut duplicis substantiae", "totum cibaret hominem."],
+        "cs": ["Pod dvojí způsobou jim dalo", "své tělo a svou krev,", "aby nasytilo celého člověka,", "jenž má dvojí podstatu."],
+        "sk": ["Pod oboma spôsobmi im dalo", "svoje telo a svoju krv,", "aby nasýtilo celého človeka,", "ktorý má dvojakú podstatu."]
+      }
+    },
+    {
+      "id": "s4",
+      "title": {"la": "Stropha IV", "cs": "Sloka 4", "sk": "Strofa 4"},
+      "text": {
+        "la": ["Se nascens dedit socium,", "convescens in edulium,", "se moriens in pretium,", "se regnans dat in praemium."],
+        "cs": ["Narozením se nám dalo za druha,", "při společném stolování za pokrm,", "smrtí se dalo za výkupné", "a jako král se nám dává za odměnu."],
+        "sk": ["Narodením sa nám dalo za druha,", "pri spoločnom stolovaní za pokrm,", "smrťou sa dalo za výkupné", "a ako kráľ sa nám dáva za odmenu."]
+      }
+    },
+    {
+      "id": "s5",
+      "title": {"la": "Stropha V · O salutaris hostia", "cs": "Sloka 5 · O salutaris hostia", "sk": "Strofa 5 · O salutaris hostia"},
+      "text": {
+        "la": ["O salutaris hostia,", "quae caeli pandis ostium,", "bella premunt hostilia,", "da robur, fer auxilium."],
+        "cs": ["Ó spásná oběti,", "jež otevíráš bránu nebe,", "tísní nás útoky nepřátel,", "dej nám sílu, přispěj na pomoc."],
+        "sk": ["Ó spásna obeta,", "čo otváraš bránu neba,", "tiesnia nás útoky nepriateľov,", "daj nám silu, príď na pomoc."]
+      }
+    },
+    {
+      "id": "s6",
+      "title": {"la": "Stropha VI", "cs": "Sloka 6", "sk": "Strofa 6"},
+      "text": {
+        "la": ["Uni trinoque Domino", "sit sempiterna gloria,", "qui vitam sine termino", "nobis donet in patria.", "Amen."],
+        "cs": ["Jedinému a trojjedinému Pánu", "ať je věčná sláva.", "Kéž nám v naší vlasti daruje", "život bez konce.", "Amen."],
+        "sk": ["Jedinému a trojjedinému Pánovi", "nech je večná sláva.", "Nech nám v našej vlasti daruje", "život bez konca.", "Amen."]
+      }
+    }
+  ]
+}
